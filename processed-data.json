@@ -648,6 +648,14 @@
     "notes:": ""
   },
   {
+    "name": "Bakso Cenghar",
+    "category": "bakso",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/bakso-cenghar-mak-nai?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.764896914601!2d110.39597571525344!3d-7.81469299436876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a590ddf74431b%3A0x2a4e644845328de8!2sBakso%20Cenghar%20Mak%20Nai!5e0!3m2!1sen!2sus!4v1662971107065!5m2!1sen!2sus",
+    "notes:": ""
+  },
+  {
     "name": "Nasi Bebek Mbak Desy",
     "category": "bebek",
     "region": "sleman",
@@ -944,6 +952,46 @@
     "notes": "sat: closed"
   },
   {
+    "name": "Dimsum Taiger Sprung",
+    "category": "dimsum",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/c7FiKBtAb8eMAf7v8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.168019701217!2d110.40665591525332!3d-7.772001094398754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a592764823ba5%3A0x5c75da92e6f272fe!2sTaigersprung%20Dimsum!5e0!3m2!1sen!2sus!4v1662972082236!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Dimsum Uma Yumcha",
+    "category": "dimsum",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/tXUGM7e59DNDL9Gf6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7906.425702734696!2d110.3769350380333!3d-7.767238878380041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5967528f4d31%3A0xd842d77f24348087!2sUma%20Yumcha%20Klebengan!5e0!3m2!1sen!2sus!4v1662972171805!5m2!1sen!2sus",
+    "notes": "murah sih"
+  },
+  {
+    "name": "Dimsum Ching San",
+    "category": "dimsum",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/ching-san?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.932599671641!2d110.36676931525345!3d-7.796960994381211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a578799b12a51%3A0x700fb1710456a3af!2sChing%20San!5e0!3m2!1sen!2sus!4v1662972199175!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Dimsum Sembilan Naga",
+    "category": "dimsum",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/LCHKghVoovNMURWH6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6096.394152052342!2d110.36463391247692!3d-7.78744345752502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a598e1b248e03%3A0xe246f593446cc4d!2sDimsum%20Sembilan%20Naga%20-%20Jogja!5e0!3m2!1sen!2sus!4v1662972237349!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Dimsum Maystar",
+    "category": "dimsum",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/kjK9h3GWV5Z4q1Vk7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.351925699548!2d110.3590159152532!3d-7.752447294412484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58f4210469dd%3A0x88a195eedf2a6829!2sMay%20Star%20Restaurant!5e0!3m2!1sen!2sus!4v1662972262490!5m2!1sen!2sus",
+    "notes": "menurutku sampe skg dimsum paling enak di jogja no debat"
+  },
+  {
     "name": "Gule Sapi Tugu",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -1040,6 +1088,230 @@
     "notes": "murah nih di Jakal"
   },
   {
+    "name": "Tio Ciu Hotplate",
+    "category": "hotplate",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/hSCD5EU3vUTU34nW9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.127672296613!2d110.38831941525338!3d-7.776284494395738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c7d60fe83f%3A0x5de0b163544f783a!2sTio%20Ciu%20Chinese%20Food%20Bang%20Sinyo!5e0!3m2!1sen!2sus!4v1662974206536!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Ika Hotplate",
+    "category": "hotplate",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/tRwqupUexAnVefdW6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.6477412263475!2d110.39522822962334!3d-7.757705353074302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a165d48599%3A0x7e7d7bc02a4441dd!2sWarung%20Makan%20Ika%20(Special%20Hot%20Plate)!5e0!3m2!1sen!2sus!4v1662974237991!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Annisa Hotplate",
+    "category": "hotplate",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/6c8aHn3M53qJvQfh7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1258745456544!2d110.38955851525338!3d-7.776475294395647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c7c63b62ed%3A0xd8703037a4b067d!2sAnnisa%20Chinese%20Food!5e0!3m2!1sen!2sus!4v1662974281313!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Hotplate Pak No",
+    "category": "hotplate",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/WCCbgwFrZ6brv6Lr5",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2544433966013!2d110.35967241525331!3d-7.7628181944051935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58f64222dcf3%3A0xe255e779ffaa6434!2sHot%20Plate%20Jamal%20Pak%20No!5e0!3m2!1sen!2sus!4v1662974302357!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "OHARANG (AUCE)",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/r6t7fGXxt1ZApVVB6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6648.567160461929!2d110.35454801539697!3d-7.76204815632614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59e6c85b7f99%3A0xe48886ea03bc81fd!2zT2hhcmFuZyBCQlEgSm9namEgKOyVhOuekSk!5e0!3m2!1sen!2sus!4v1662975076314!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Niku BBQ",
+    "category": "japan_korea",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/Hs5T5hdR775KC7o67",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7211376346036!2d110.3678471152535!3d-7.819313294365505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57fcd50bd165%3A0x996d69254fc09b2b!2sNiku%20Japanese%20BBQ%20Jogja!5e0!3m2!1sen!2sus!4v1662975140353!5m2!1sen!2sus",
+    "notes": "di Agenda dulu"
+  },
+  {
+    "name": "Pocchajang",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://g.page/pochajjangseturan?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2174060804386!2d110.4036838152532!3d-7.7667548944025055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ecd7a93a73%3A0xe9f9e2d628b8b262!2sPOCHAJJANG%20YOGYAKARTA!5e0!3m2!1sen!2sus!4v1662975172246!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Shabu (AUCE)",
+    "category": "japan_korea",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/SvcBcSMAcd6ewt2f9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9402.051396690127!2d110.35650246237054!3d-7.78180305471328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5830866c9b31%3A0xe50f37ad8c78a13b!2sShabu%20AUCE!5e0!3m2!1sen!2sus!4v1662975201160!5m2!1sen!2sus",
+    "notes": "ga worth it si menurutku"
+  },
+  {
+    "name": "Matjeo Korean Grill",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/NjWqPwFjWb7w9j669",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.18453007192!2d110.36388148196245!3d-7.770247627905064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a592b483e7d37%3A0x52fa6e883053ad58!2sMatjeo%20Korean%20Grill%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662975261776!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Seorae",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/47kjj3yajgcuXFvd7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0684204938134!2d110.39921241525346!3d-7.782570594391348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c296507d43%3A0xaca97dd25dbc84c3!2sSeorae!5e0!3m2!1sen!2sus!4v1662975285326!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kakkoii",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/RrjXwUMSEdenY6tT6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.683975850789!2d110.35611010922841!3d-7.767483325881805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58448e44b9c5%3A0x197c14b97ffade65!2sKakkoii%20Japanese%20BBQ%20%26%20Shabu-Shabu%2C%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662975315116!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kintan",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/RV89n1TkoayMxRTq6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.133557519124!2d110.39699636250704!3d-7.7809948355435195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c2bfd156c5%3A0x2bbb7fc2e4bfeade!2sShaburi%20%26%20Kintan%20Buffet%20Plaza%20Ambarrukmo!5e0!3m2!1sen!2sus!4v1662975346784!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Gyukaku",
+    "category": "japan_korea",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/gyukaku-jogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.042012810682!2d110.37211941525334!3d-7.785370594389386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b359234fed%3A0xabf10d641b80223f!2sGyu-Kaku%20Japanese%20BBQ!5e0!3m2!1sen!2sus!4v1662975548469!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Bornga",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://g.page/borngajogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.908996147187!2d110.3665168763158!3d-7.750558659144049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58feccea425b%3A0x2da276a3c45e1c95!2zQk9STkdBIOuzuOqwgA!5e0!3m2!1sen!2sus!4v1662975578712!5m2!1sen!2sus",
+    "notes": "ga auce sih tapi enak!"
+  },
+  {
+    "name": "Silla Korean and Japanese",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://g.page/sillarestaurant?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.304280274504!2d110.38421991525318!3d-7.757517894408967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a916ece4e5%3A0xd321813e2ca8f4b!2sSilla%20Restaurant!5e0!3m2!1sen!2sus!4v1662975405209!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Yoshinoya",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/dKYqePN6Qp5kzNE67",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.625574604624!2d110.37774341399978!3d-7.761670400070219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a591b34062b73%3A0xc5426429f29f6561!2sYoshinoya%20Kaliurang!5e0!3m2!1sen!2sus!4v1662975769001!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Marugame",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/hizrnYcoq5ayWNkr8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7906.192362729676!2d110.39116184041535!3d-7.779626036371128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c291e5df1d%3A0x3bd71fdd0c3d1ba7!2sMarugame%20Udon%2C%20Plaza%20Ambarrukmo!5e0!3m2!1sen!2sus!4v1662975796156!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Hokben Jakal",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/cTC6v7ZLHnMsvZpr8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.820209618024!2d110.37589163705749!3d-7.75724102881138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ace5068005%3A0x689a18460083861c!2sHokBen%20Kaliurang!5e0!3m2!1sen!2sus!4v1662975820872!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "ToraTora",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/LskP6AkAtjthGhxTA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.3520903096737!2d110.3763453176985!3d-7.76596514333765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584d2e00889f%3A0x5bff56adabb01fc0!2sTora%20Tora%20Restaurant%20(Japanese%20Cuisine)!5e0!3m2!1sen!2sus!4v1662975872432!5m2!1sen!2sus",
+    "notes": "alias Hokben versi murmer"
+  },
+  {
+    "name": "Sushi Tei",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/vbbWWLWx7uyiDBV8A",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1026015868524!2d110.38650871525336!3d-7.778944894393868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c8c8ac2ecb%3A0x6a0f430994a24e00!2sSushi%20Tei!5e0!3m2!1sen!2sus!4v1662975917980!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Hikaru Dining",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/ABzb1XpCyMYvUTTz5",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1220640732286!2d110.3796302152535!3d-7.776879694395325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59cbd2d84cbb%3A0x2d91596da18a517d!2sHikaru%20Dining%20Japanese%20Restaurant!5e0!3m2!1sen!2sus!4v1662975941228!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kimokatsu Sushi",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/jhnAUbAPLJCTvEJf9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6648.645832402614!2d110.39063885876648!3d-7.757072724407371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a593228a53c7b%3A0x4497a5dd9bb3389!2sKimukatsu%20Hartono%20Mall%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662975965584!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "A&M Co Sushi",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/5sy24UoAJKs4U9zH8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.117808624484!2d110.38194251525331!3d-7.777331294394972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59746838babf%3A0x16e849b89ec565ef!2sA%26M%20Co%20Sushi%20Express!5e0!3m2!1sen!2sus!4v1662975996129!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Genki Sushi",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/udf86JTt1BerDPdn7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.070833496592!2d110.39913121525328!3d-7.782314694391486!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59d6e0b967b9%3A0xe130dc05d4cc1ca2!2sGenki%20sushi%20plaza%20ambarukmo!5e0!3m2!1sen!2sus!4v1662976016788!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Ichiban Sushi",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/LgYUeViq7Zt5wFgx7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.6353465153443!2d110.39652539026487!3d-7.7599227010067935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a3b1791427%3A0x310ed128f4f49319!2sIchiban%20Sushi!5e0!3m2!1sen!2sus!4v1662976051902!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Nagoya Japanese Fushion",
+    "category": "japan_korea",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/HuavadgbsgWUMUZn7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.1203717653684!2d110.37003040817059!3d-7.800713840224107!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57814ede494f%3A0xf9cc80499820a134!2sNagoya%20Fusion%20Pakualaman!5e0!3m2!1sen!2sus!4v1662976084832!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Sumo Sushi",
+    "category": "japan_korea",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/Dch1HF9tgtd7takK7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0549650726484!2d110.38818391525345!3d-7.783997394390353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59cff81889e5%3A0x8566ba5cee07f408!2sSumo%20Sushi%20Bar!5e0!3m2!1sen!2sus!4v1662976112803!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Sushi Story",
+    "category": "japan_korea",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/h9MDpXG4dfUEnhr2A",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.268550807373!2d110.39227141525328!3d-7.761318194406293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a4f642a0fd%3A0x28c0df787cc996ab!2sSushi%20Story!5e0!3m2!1sen!2sus!4v1662976145567!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
     "name": "Lesehan Restu Ibu Jamal",
     "category": "lesehan",
     "region": "sleman",
@@ -1078,6 +1350,54 @@
     "link": "https://goo.gl/maps/WutEbKQgbk2mtmiY6",
     "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.5781915794357!2d110.40782558919214!3d-7.773236704923543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59df1d39d515%3A0x7823866ed0425d14!2sWarung%20pecel%20lele%20FARDA!5e0!3m2!1sen!2sid!4v1662749968154!5m2!1sen!2sid",
     "notes": ""
+  },
+  {
+    "name": "Lumpia Sedap Rasa Gardena",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/sLuZEmaimrDc6iBi8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.062970856915!2d110.37801293544537!3d-7.783148499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59bb916e91d5%3A0x2ff398430d7e8219!2sLumpia%20Sedap%20Rasa!5e0!3m2!1sen!2sus!4v1662970944932!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Lumpia Samijaya",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/FPGUbmPzsGbTQjWR6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.4756780343791!2d110.36685491744385!3d-7.7949752999999955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a582830d86139%3A0xe9f277b05950ed89!2sLumpia%20Samijaya!5e0!3m2!1sen!2sus!4v1662971025602!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Lumpia Bu Tatik",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/bEZWdUCP7LyVdgfV8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.236242203886!2d110.37816118598097!3d-7.783357089744061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59861811dedf%3A0xb4d25108ad1a2ced!2sLumpia%20Rebung%20Bu%20Tatik!5e0!3m2!1sen!2sus!4v1662971068038!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Mangut Lele Mbah Temu",
+    "category": "mangut",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/CTCYTBVAHKAvJrEi7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.548660930147!2d110.33769161525369!3d-7.837497794352715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57d2df6bcc5f%3A0x75185267d21cb6fb!2sMangut%20Lele%20Mbah%20Temu!5e0!3m2!1sen!2sus!4v1662970639452!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Mangut Lele Bu Is",
+    "category": "mangut",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/P7LRJ3U2ainqz5uL9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.9808504300586!2d110.37087621525393!3d-7.897068994310927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5656bf67bf77%3A0x50573193d7378b41!2sMangut%20Lele%20Bu%20Is!5e0!3m2!1sen!2sus!4v1662970610266!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Mangut Lele Mbah Marto",
+    "category": "mangut",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/dZDZNPNpnP1aHEnv9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.7623580200625!2d110.3512471761135!3d-7.8541014711368655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a579166e63e67%3A0xae6e5fddb453562f!2sMangut%20Lele%20Mbah%20Marto!5e0!3m2!1sen!2sus!4v1662970580543!5m2!1sen!2sus",
+    "notes": "ga terlalu doyan si aku tp legend bgt"
   },
   {
     "name": "Mie Bandung 59 daerah Beskalan Malioboro",
@@ -1637,6 +1957,510 @@
     "region": "kota_yogyakarta",
     "link": "https://goo.gl/maps/NVtoJLnapnLLLWrf7",
     "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.070280936289!2d110.38904741409794!3d-7.7823732943914905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59cf886437a5%3A0x40998591436e7ab6!2sWarung%20Makan%20Sop%20Empal%20Bu%20Wignyo!5e0!3m2!1sen!2sus!4v1662180546539!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Bumi Langit Institute",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/LZcr5zKnRm4FRhPP8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.700538333076!2d110.4080878152541!3d-7.926313594290404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a548e5b39266d%3A0xd3f764cfe06aa3b!2sBumi%20Langit%20Institute%20dan%20Warung%20Bumi!5e0!3m2!1sen!2sus!4v1662972422039!5m2!1sen!2sus",
+    "notes": "oke bgt sih buat weekend getaway, alam2 gtu tempatnya"
+  },
+  {
+    "name": "Tirto Raharjo Jogja",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/W6UbzdJosQjxJWzo7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d988.1256632647408!2d110.336681829208!3d-7.842341399646838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a562c72dd6ba3%3A0xa269a541caa4b3db!2sCandi%20Tirto%20Raharjo!5e0!3m2!1sen!2sus!4v1662972581801!5m2!1sen!2sus",
+    "notes": "ini buat ramean modelan triple date gtu oke hhh banyak candi2nya, sekalian nginep"
+  },
+  {
+    "name": "Queen of the South",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://g.page/queenofthesouth_resort?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d987.6792270226908!2d110.33977438683944!3d-8.02809707855169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7b0096c9fe2179%3A0x4e00a77272d24691!2sQueen%20Of%20The%20South%20Beach%20Resort!5e0!3m2!1sen!2sus!4v1662972615625!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Eskala",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/4KUfcPPE11qZAcQc6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.601244926723!2d110.37905941525318!3d-7.725859894431174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c9f640bb9b%3A0xbe98e6a9af66721f!2sESKALA%20Eatery%20Bar%20%26%20Coffee!5e0!3m2!1sen!2sus!4v1662972641171!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Terrace Cafe",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/HH55sz4uSPzmCza86",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.5317160317736!2d110.37385934315522!3d-7.738921635138308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b5b0afe957%3A0x6eb3306ebc23fac2!2sTerrace%20Cafe%20-%20The%20Alana%20Yogyakarta%20Hotel!5e0!3m2!1sen!2sus!4v1662972682379!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kolona",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/KolonaJogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.553632586183!2d110.37696991525316!3d-7.7309442944276565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5916539b6575%3A0xabee670e2ee1b730!2sKOLONA%20Kitchen%20%26%20Coffee!5e0!3m2!1sen!2sus!4v1662972832473!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Epic",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/EpicCoffee?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2715.982215822586!2d110.37496270359257!3d-7.733666307257429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58e00b86d721%3A0x2cddd06b9ddb4231!2sEpic%20Coffee%20%26%20Epilog%20Furniture!5e0!3m2!1sen!2sus!4v1662972897089!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Bogey's",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/bogeys-teras?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.467680479332!2d110.37248291525322!3d-7.740114494421203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5920c87c4a67%3A0x71de7487a194d768!2sBogey&#39;s%20Teras!5e0!3m2!1sen!2sus!4v1662972919483!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Ibis Skybar",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/sPFgehsnRHDJHZVS8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.962187303474!2d110.35931851525343!3d-7.793828394383402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a582727dd89af%3A0xc10f26f8ecde0111!2sD&#39;%20Skybar%20%40%20ibis%20Styles%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662972942554!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "El Patio",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/ZzKkAtBiXKW99cKF9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1175.2141269568692!2d110.36766419515897!3d-7.796877752055121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a578799e6a0b7%3A0xe94df5bbe133996!2sEl%20Patio%20Restaurant!5e0!3m2!1sen!2sus!4v1662972978040!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Easy Garden",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/easygardenresto?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.73503166787!2d110.3591563152535!3d-7.817846594366504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57a3aa9df89d%3A0xbb039b3f501495e1!2sEasy%20Garden%20Restaurant%20%26%20Cafe!5e0!3m2!1sen!2sus!4v1662973014470!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Sasanti",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/sasanti_restaurant?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.4502859756167!2d110.37140261525322!3d-7.741968994419834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5edb1096c073%3A0x2238917e9cc0492a!2sSasanti%20Restaurant!5e0!3m2!1sen!2sus!4v1662973037178!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "d'Omah Lotus Cafe",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/tvnDKnB2mzhbJhWF7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.2252128969085!2d110.35138661525384!3d-7.8714868943288385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57fd77c69e09%3A0x6481b920840e0403!2sd&#39;Omah%20Lotus%20Caf%C3%A9!5e0!3m2!1sen!2sus!4v1662973082415!5m2!1sen!2sus",
+    "notes": "isinya literally banyak lotus"
+  },
+  {
+    "name": "Waroeng Pohon Omah Sawah",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/V4p4t3T8XQ8gCDQ36",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.4507935150036!2d110.35683521525377!3d-7.847797494345543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a564620f4f36b%3A0xc3f0951c967cf049!2sWaroeng%20Pohon%20Omah%20Sawah!5e0!3m2!1sen!2sus!4v1662973120173!5m2!1sen!2sus",
+    "notes": "ini jg tempatnya ok"
+  },
+  {
+    "name": "Watu Langit",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/watulangit?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9134.193644696197!2d110.50812750238607!3d-7.790962007785653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a51a308b83b1d%3A0x2bd776147a2c312!2sWatu%20Langit%20Jogja%20Coffee%20and%20Resto!5e0!3m2!1sen!2sus!4v1662973146480!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "JiwaJawi Jogja",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://g.page/jiwajawi-jogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.526654106198!2d110.2909487152537!3d-7.839814994351121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7af9fde306899d%3A0x72785f00c1171824!2sJiwajawi%20Jogja!5e0!3m2!1sen!2sus!4v1662973167192!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Tugu Lor",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/ZXZw82zNom2HP5xJ6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.148358352825!2d110.36611231525322!3d-7.774088694397329!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5918df8e53fb%3A0x143c2532fe3025a6!2sTUGU%20LOR!5e0!3m2!1sen!2sus!4v1662973192029!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "ViaVia",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/viaviajogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7207624683197!2d110.36931701525353!3d-7.819352894365429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57a3c92ac2df%3A0x10a4e81eaf2ed9f8!2sViaVia%20Jogja!5e0!3m2!1sen!2sus!4v1662973212580!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Honje",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/4T2wZLUADnqkpHWA6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0610744470023!2d110.36467461525349!3d-7.783349594390797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58307e963b91%3A0x1822a09b31fde7dd!2sHonje%20Mangkubumi!5e0!3m2!1sen!2sus!4v1662973284206!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Samazana",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/samazana-restaurant?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0709409907777!2d110.40108941525345!3d-7.7823032943915145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59e87aae1f03%3A0x1678b0e3de78f9f!2sSamaZana%20Restaurant!5e0!3m2!1sen!2sus!4v1662973305873!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Bale Raos",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/baleraosresto?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.823987887478!2d110.36107881525353!3d-7.80844959437313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a578d61c24d1f%3A0x49bde399ebde344c!2sBale%20Raos%20-%20The%20Sultan&#39;s%20Dishes!5e0!3m2!1sen!2sus!4v1662973327243!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Sekar Kedhaton",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/4J4Q5fKziiqHdGMH9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.6479084587268!2d110.39060841525362!3d-7.827039094360071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a571a976e322f%3A0x1ad28d836c97d84!2sSekar%20Kedhaton%20Restaurant!5e0!3m2!1sen!2sus!4v1662973364375!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Toscana",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/ASPQhbvMr7G61aT2A",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7228931224518!2d110.3689978152536!3d-7.819127994365644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a575d65003c37%3A0x620bee8cc47f3a55!2sWarung%20Toscana!5e0!3m2!1sen!2sus!4v1662973391692!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Mak Semarangan",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/maksemarangan?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2883432796602!2d110.3649810778239!3d-7.759213232520003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5856d8608447%3A0x3fa12805d415aa0f!2sMak%20Semarangan%20Resto%20-%20Gallery%20-%20Coffee%20Halal%20Food%20dekat%20terdekat!5e0!3m2!1sen!2sus!4v1662973421936!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Peppermint",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/h2Yo2Y51TEB99SFS8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2350.604543179748!2d110.40335234027307!3d-7.765430528875809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5944b283b255%3A0x682ca502d5825507!2sPeppermint%20Resto!5e0!3m2!1sen!2sus!4v1662973455462!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "The Warung Gurugiristay",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/rJgdr4EFbCNWKx9b8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.691266163658!2d110.45631721744384!3d-7.822465699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a51e315401949%3A0x8ae69038622715d6!2sGURU%20GIRI!5e0!3m2!1sen!2sus!4v1662973558103!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Slays Deli",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/JUZc4JBtPGETy82M6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.170620603588!2d110.4041359152533!3d-7.771724894398958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5982e6f706ab%3A0x1a30ebffc69df1ef!2sSLAYS%20DELI!5e0!3m2!1sen!2sus!4v1662973583040!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Marikatsu",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/prQWoVwvVqRZZgJy9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1078691785888!2d110.39168121525333!3d-7.778385994394265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59f6061a70b9%3A0x83a185275fe11ce3!2sMarikatsu!5e0!3m2!1sen!2sus!4v1662973603763!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Truffle Belly",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/83wH9gmkadwnxkn98",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5276.672162911384!2d110.3700931620178!3d-7.7858418221943175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5955e74d3f8b%3A0x4fc6b4f1eb63fd53!2sTruffle%20Belly%20Kotabaru%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662973637915!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Shokudou Japanese Foodcourt",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/yPvJY2yh2XMJsFyK7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.3545773955607!2d110.3603972152532!3d-7.752164994412726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a595d4c5c4737%3A0x6e6262b08e897c73!2sShokudou%20Japan%20Night%20Food%20Market!5e0!3m2!1sen!2sus!4v1662973664518!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Eastern Kopi TM",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/DkTKZgze8FFeaSaEA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.3100347955506!2d110.37799403305651!3d-7.756905652193795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59abb7820aed%3A0x84652a69c2416f11!2sEastern%20Kopi%20TM%20Pandega%20Karya!5e0!3m2!1sen!2sus!4v1662973703906!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Upnormal",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/RHdmqkKLdei95JCK7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1397.7054624515158!2d110.381251595207!3d-7.75711763467096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59abb7e60527%3A0x9b59be01feb38106!2sUpnormal%20Coffee%20Roasters%20Kaliurang!5e0!3m2!1sen!2sus!4v1662973728518!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Legit",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/LEGIT-Dapur-dan-Kebun?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1175.3852039490155!2d110.39794580658813!3d-7.735726876589772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a591455e41127%3A0x954651ebf82ef87c!2sLegit%20Kitchen%20and%20garden!5e0!3m2!1sen!2sus!4v1662973755589!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kedai Rukun",
+    "category": "other",
+    "region": "bantul",
+    "link": "https://goo.gl/maps/2nknjNnY3gWBLwgH6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1661.9931996001983!2d110.34593776727463!3d-7.799535323679558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57f6f3d23eb3%3A0x56931f4766f6d233!2sKedai%20Rukun%20Local%20Cuisine%20%26%20Brew!5e0!3m2!1sen!2sus!4v1662973780360!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "DMonaco",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/DMonacoyogyakarta?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.556901755934!2d110.372675015253!3d-7.730595294427845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ab6341a4e7%3A0x94131adf94041dc9!2sD&#39;Monaco!5e0!3m2!1sen!2sus!4v1662973841031!5m2!1sen!2sus",
+    "notes": "bagus di tempat doang si"
+  },
+  {
+    "name": "Katakita",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/1eD2kjVn5KJ6eKb18",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2465788361014!2d110.3569526419633!3d-7.763654285227815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59e26b1959ad%3A0x9ef915897f572f98!2sKata%20Kita%20All%20Day%20Dining!5e0!3m2!1sen!2sus!4v1662973868781!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Iconic",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/iconicjogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.341099058608!2d110.35970651525318!3d-7.75359979441168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58f66aeea355%3A0x142ddb8f6df61440!2sICONIC%20GELATO%20%26%20BISTRO!5e0!3m2!1sen!2sus!4v1662973891297!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Parsley",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/ucBmUHiAJnaSZx529",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1397.6987471495818!2d110.38009794861185!3d-7.759138203515223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a5e7e8fa59%3A0xd4018696a98a3a4b!2sParsley%20Bakery%20%26%20Resto%20Jakal!5e0!3m2!1sen!2sus!4v1662973916398!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "The Ducking",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/Pfymi6DJCubG6xRB7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.3068866873623!2d110.39554448043782!3d-7.759100609124291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a3c92169f3%3A0x3891b67096f2fcc6!2sThe%20Duck%20King%20Hartono%20Mall%20Jogja!5e0!3m2!1sen!2sus!4v1662973952800!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kimukatsu",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/pHTERkZbBNuxYmX39",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.798927797562!2d110.39203996115707!3d-7.7588419195833165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a593228a53c7b%3A0x4497a5dd9bb3389!2sKimukatsu%20Hartono%20Mall%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662973992220!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "McD Jakal",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/1M17odq1VzRR3wPi6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.257348804263!2d110.37747141525318!3d-7.7625092944054215!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ac8fb5fe51%3A0xa3bb46f544ae1af0!2sMcDonald&#39;s!5e0!3m2!1sen!2sus!4v1662974028381!5m2!1sen!2sus",
+    "notes": "katanya rasanya beda soalnya ada aroma2 yg mengingatkan jaman ngerjain skripsi sampe pagi tp ga di acc2 dosen hhh"
+  },
+  {
+    "name": "Solaria",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/5pSUPNggdufxAsjw7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4701.253701300626!2d110.39339007168978!3d-7.761442202437741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a3b043b39b%3A0x9a566db70a802777!2sSolaria%20Hartono%20Mall%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662974108606!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Plate O",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/kEh6DAPq5mGkiM616",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0670604883694!2d110.37511677882199!3d-7.782714819878672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59cd267c2957%3A0x5b429e0efacdbccf!2sPlate%20-%20O%20Galeria!5e0!3m2!1sen!2sus!4v1662974136988!5m2!1sen!2sus",
+    "notes": "wkaka versi murahnya Pepper Lunch"
+  },
+  {
+    "name": "Roca Artotel",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/T3rycUhTRj9hxkFh6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.3122017124274!2d110.38014831525335!3d-7.7566750944095455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59aa4db3bcdd%3A0x27310bd4cf925992!2sARTOTEL%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662974433409!5m2!1sen!2sus",
+    "notes": "buat nongkrong sih enak ya, buat belajar skip wk"
+  },
+  {
+    "name": "Suwatu",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/SUWATU-by-milandbay?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2048983503564!2d110.49187721525328!3d-7.76808389440153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5b8cd67886e3%3A0x46ac848c7263e6ad!2sSuwatu%20By%20Mil%20%26%20Bay!5e0!3m2!1sen!2sus!4v1662974458615!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Swasana",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/CJJPPWd1VYTXUqFr6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5591.2089819745925!2d110.39477946276664!3d-7.72793824536635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5931d95d18c1%3A0x9e493ce7509959e!2sSwasana%20by%20Temata%20Yogyakarta!5e0!3m2!1sen!2sus!4v1662974487926!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Lesung",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/C3EY9HSTpgTQGhg97",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11180.945563659725!2d110.50316265563673!3d-7.78333478893593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5b4dad6e5b49%3A0x705234ae2382c9d2!2sLesung%20Cafe%20%26%20Resto!5e0!3m2!1sen!2sus!4v1662974518971!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Abhayagiri",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/qhm2yjxquAi8jpXu7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.199928548944!2d110.49447671525336!3d-7.768611894401077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5aeaaf1496bf%3A0x1d882ff8f43d046a!2sABHAYAGIRI%20-%20Venue%20and%20Dining!5e0!3m2!1sen!2sus!4v1662974544033!5m2!1sen!2sus",
+    "notes": "klo mau dinner romantis tp makanannya b aja dan mahal, bener2 dateng buat viewnya"
+  },
+  {
+    "name": "Meditteranea",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/mrbykamil?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7368405862417!2d110.35949125785355!3d-7.817655618853844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57bd1a830c51%3A0x917adbfd1657973b!2sMediterranea%20Restaurant%20by%20Kamil!5e0!3m2!1sen!2sus!4v1662974580354!5m2!1sen!2sus",
+    "notes": "nah ini dinner paling worth it udah, enak dan harganya murah"
+  },
+  {
+    "name": "Roaster and Bear",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/tsD3E6vNsy56PhBp6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.049615418546!2d110.36499451525339!3d-7.7845645943899555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58307c389477%3A0x7bc5bc779883ab1b!2sRoaster%20And%20Bear%20Restaurant!5e0!3m2!1sen!2sus!4v1662974624839!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "MIL'S",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/milskitchen?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1662.1679087130876!2d110.37970547468755!3d-7.755440215000379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5982d9f708ef%3A0xc0c6edeff65cca43!2sMil&#39;s%20Kitchen!5e0!3m2!1sen!2sus!4v1662974663116!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Tarbush",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/zzNJU2bzadgrLnas5",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2946592955527!2d110.37921481525316!3d-7.758541394408202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a598799001fd5%3A0x99981b35553cf1dc!2sTarbush!5e0!3m2!1sen!2sus!4v1662974689307!5m2!1sen!2sus",
+    "notes": "enak nih"
+  },
+  {
+    "name": "Rumah Kuliner Ateeya",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/ateeya?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.3311343174046!2d110.39713031525316!3d-7.754660394410948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a0f50e1019%3A0xd7a16c05dd808730!2sRumkul%20Ateeya!5e0!3m2!1sen!2sus!4v1662974710531!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Nasi Kebuli Republik",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/mvYEHZnEY4u86FC2A",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.273414414421!2d110.37856071525323!3d-7.760800994406677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59acedd1de99%3A0x781b12b0214ddeea!2sNasi%20Kebuli%20Republik!5e0!3m2!1sen!2sus!4v1662974732701!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Emado's Shawarma",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/vTncwvAzTqKN48ia6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.888555949421!2d110.37107554980801!3d-7.801621822161065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a573afc41a7c5%3A0x85d29b38a80d02c8!2sEmado&#39;s%20Shawarma!5e0!3m2!1sen!2sus!4v1662974764655!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Umar Restaurant",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/uQVkuoWTxqhu6hiQ9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2791051403465!2d110.36737361525329!3d-7.760195794407037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b0aaf37639%3A0x43346bd9aba4cac7!2sUmar%20Restaurant%20and%20Shisha%20Cafe%20(Pusat)!5e0!3m2!1sen!2sus!4v1662974808216!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Mimbar Si Baud",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/ZzMxeWPeLzD1mGLa6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1011547947073!2d110.37119801525334!3d-7.7790983943937695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5909c0a45f23%3A0x6371d970aefaa636!2sMim&#39;Bar%20Si%20Baud!5e0!3m2!1sen!2sus!4v1662974835211!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Phuket",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/3PsSnJQzj9dSrBCr8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0000749995907!2d110.35154791525329!3d-7.789815194386245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a581891277d05%3A0xb0c58676bfb55b80!2sPhuket%20Resto%20Cokroaminoto!5e0!3m2!1sen!2sus!4v1662974865555!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Indochine Bistro",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://g.page/indochinebistrojogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.5298409784455!2d110.37568411525307!3d-7.733483694425824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59934c3f9d09%3A0x8ad3bcb8e5b04b22!2sIndochine%20Bistro!5e0!3m2!1sen!2sus!4v1662974887076!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Bongobong (AUCE)",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/rBrV6VHYbhU4MUd97",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6648.452667731638!2d110.38382925066387!3d-7.769283336588499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a592ff93c00f5%3A0x47c14b5885b6c2ac!2sBongOBong%20Gejayan!5e0!3m2!1sen!2sus!4v1662975037752!5m2!1sen!2sus",
+    "notes": "murah sih tapi pulang2 dijamin bau soalnya minim AC, tp klo sm Phillip seringnya ke sini soalnya bebas sampe brp jam jg ga diusir2 gara2 Phillip kenal sm mas2nya"
+  },
+  {
+    "name": "Saffron Grand Aston",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/pz8gWuZ3xHpWMxN77",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.066046074915!2d110.37970871525347!3d-7.782822394391142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59cdaecd302d%3A0xb93d9ffaab2603c0!2sSaffron%20Restaurant%20%40Grand%20Aston!5e0!3m2!1sen!2sus!4v1662975438422!5m2!1sen!2sus",
+    "notes": "ga terlalu wow si"
+  },
+  {
+    "name": "Yogyakarta Kitchen by Marriot nah ini mendingan",
+    "category": "other",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/BAveoCSwTrmEBWrj8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.270708061853!2d110.39621741525322!3d-7.761088794406407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59a30f954011%3A0x97519fd73a122619!2sYogyakarta%20Kitchen%20by%20Marriott!5e0!3m2!1sen!2sus!4v1662975464440!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Kayu Manis Restaurant",
+    "category": "other",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/61dNLpobYYFySPyG9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.1884058800792!2d110.36451514892428!3d-7.774073244451706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584847d2350b%3A0xa590f50c7750fe5f!2sKayu%20Manis%20Restaurant!5e0!3m2!1sen!2sus!4v1662975493569!5m2!1sen!2sus",
     "notes": ""
   },
   {
