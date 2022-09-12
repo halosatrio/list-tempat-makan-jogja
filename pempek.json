@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Pempek Madam Kitchen",
+    "category": "pempek",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/Djs2FUaQGCrmSPAo8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.7622451572042!2d110.39594721744383!3d-7.708642399999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5fabdb59b0b5%3A0x7759d29b4380045c!2sMadam%20kitchen!5e0!3m2!1sen!2sus!4v1662154083317!5m2!1sen!2sus",
+    "notes": "paling oke kayanya se yk sisanya kureng"
+  },
+  {
+    "name": "Pempek Oji Tamsis",
+    "category": "pempek",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/hbrCiVkS8X4292p89",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.795821160849!2d110.3747500628555!3d-7.811426236707579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a579e72dbedaf%3A0xd53d5030a7eeda98!2sPempek%20mc%20oji!5e0!3m2!1sen!2sus!4v1662154121999!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pempek Ny Kamto",
+    "category": "pempek",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/wdrzMBkiKueFaRLu6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.928358136657!2d110.36069971786263!3d-7.797409965755487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5788472d6b85%3A0x19e6783eb5cbbe1c!2sPempek%20Ny.%20Kamto%20Beskalan!5e0!3m2!1sen!2sus!4v1662154173463!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pempek Ulu Bundar",
+    "category": "pempek",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/aiys4H4ZchG54oJm7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4701.015089017778!2d110.39687791131902!3d-7.782749187401314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c2b7a21d0b%3A0x9f25875e0014197!2sPempek%20%26%20Siomay%20Ulu%20Bundar!5e0!3m2!1sen!2sus!4v1662154211044!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pempek Yessy",
+    "category": "pempek",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/yineByAKzPWPwN9p9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3324.2684569180697!2d110.35315944090253!3d-7.763960193529282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58550d7d51d5%3A0xf0d37f53de80230e!2sPempek%20Yessy!5e0!3m2!1sen!2sus!4v1662154234461!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pempek Mang Pari Ilir",
+    "category": "pempek",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/Z31Ps8ZKaqDi75dJA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7874480958203!2d110.37879451530326!3d-7.812310879736206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a576395c29a25%3A0x3044f3c13224d737!2sPempek%20palembang%20mang%20pari%2019%20ilir!5e0!3m2!1sen!2sus!4v1662154262996!5m2!1sen!2sus",
+    "notes": ""
+  }
+]

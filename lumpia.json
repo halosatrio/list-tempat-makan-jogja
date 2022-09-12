@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lumpia Sedap Rasa Gardena",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/sLuZEmaimrDc6iBi8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.062970856915!2d110.37801293544537!3d-7.783148499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59bb916e91d5%3A0x2ff398430d7e8219!2sLumpia%20Sedap%20Rasa!5e0!3m2!1sen!2sus!4v1662970944932!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Lumpia Samijaya",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/FPGUbmPzsGbTQjWR6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.4756780343791!2d110.36685491744385!3d-7.7949752999999955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a582830d86139%3A0xe9f277b05950ed89!2sLumpia%20Samijaya!5e0!3m2!1sen!2sus!4v1662971025602!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Lumpia Bu Tatik",
+    "category": "lumpia",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/bEZWdUCP7LyVdgfV8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.236242203886!2d110.37816118598097!3d-7.783357089744061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59861811dedf%3A0xb4d25108ad1a2ced!2sLumpia%20Rebung%20Bu%20Tatik!5e0!3m2!1sen!2sus!4v1662971068038!5m2!1sen!2sus",
+    "notes": ""
+  }
+]

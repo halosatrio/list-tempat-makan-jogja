@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Hakata Ramen",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/Y5KE8UWAXQtpqhtX7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6843.113206578097!2d110.38636591964473!3d-7.778759422456047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59c66776fe31%3A0x9fa1147623615ea!2sHakata%20Ikkousha%20Ramen%20Restaurant!5e0!3m2!1sen!2sid!4v1662746879657!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Golden Geisha Ramen",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/TzsqUdgfY6P1U5U16",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.353297116482!2d110.36036661429323!3d-7.752301294412614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5957acf71d23%3A0x5b3a559769be0dbd!2sGolden%20Geisha%20Ramen!5e0!3m2!1sen!2sid!4v1662746924796!5m2!1sen!2sid",
+    "notes": "kayanya paling ok di yk"
+  },
+  {
+    "name": "Hakosuka Ramen",
+    "category": "ramen",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/tkCrcijZKwMGTbye7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.100437514596!2d110.37084831429344!3d-7.779174494393729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a592b0006068b%3A0x41fc654cde466d35!2sHakosuka%20Ramen%20%26%20Bento!5e0!3m2!1sen!2sid!4v1662746989411!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Ramen Songo",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/JcpQdpV6gkDKD4oG7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1739087961632!2d110.37408751429341!3d-7.771375694399237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a598689f80529%3A0x15d4196ab8632084!2sSongo%20Ramen!5e0!3m2!1sen!2sid!4v1662747016992!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Ramen Ya Amplaz",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/AJbU8onKdvAWt4L7A",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.076534244233!2d110.39929231429349!3d-7.781710094391928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a592599e35423%3A0xbb1cf5b52772ef9!2sRamenYa%20Plaza%20Ambarrukmo!5e0!3m2!1sen!2sid!4v1662747044124!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Ramen Shojin",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/Z4PXnD4HFotAgg9w5",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.299339596112!2d110.3799684895144!3d-7.7580695738939935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59fb772a8057%3A0x5f5c830e06b3560a!2sShojin%20Ramen%20%26%20Udon%20-%20Jakal!5e0!3m2!1sen!2sid!4v1662747079066!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Ramen Gokana",
+    "category": "ramen",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/WiBrhVwJEz63sbQU9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5590.86090366405!2d110.35713145963261!3d-7.754265889939348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a597c1fa748a3%3A0x1aa93aecd00ac2b4!2sGokana%20Ramen%20%26%20Teppan%20JCM!5e0!3m2!1sen!2sid!4v1662747124089!5m2!1sen!2sid",
+    "notes": "lom pernah"
+  }
+]

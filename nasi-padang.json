@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Padang Sederhana",
+    "category": "nasi_padang",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/X13XuYPC6f195ajp6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.302384082514!2d110.37855310247!3d-7.757719625924385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584c9dd9ae11%3A0x7235a730ef6838ae!2sRM.%20Padang%20Sederhana%20Kaliurang!5e0!3m2!1sen!2sus!4v1662178551299!5m2!1sen!2sus",
+    "notes": "sampe skg blm nemu padang di jogja yg wow enak bgt nih gila"
+  },
+  {
+    "name": "Padang Duta Minang",
+    "category": "nasi_padang",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/FgMJnQTCdkfTKogx5",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2795.2378587086637!2d110.36741280392562!3d-7.783114674200747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5831a8632bf7%3A0xf87125cc8a2a3b3!2sDuta%20Minang%20Padang&#39;s%20Food!5e0!3m2!1sen!2sus!4v1662178662373!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Padang Palanta",
+    "category": "nasi_padang",
+    "region": "sleman",
+    "link": "https://g.page/kdplt?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.7123165220996!2d110.59904371409743!3d-7.713985894439536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5856add34c07%3A0x24ae8ca45ec7bdc4!2sRumah%20Makan%20Padang%20Kedai%20Palanta!5e0!3m2!1sen!2sus!4v1662178712344!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Padang Lima Sekawan",
+    "category": "nasi_padang",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/D5AzNhdLo1MekeKHA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9402.398959326843!2d110.37131718920362!3d-7.766289047473426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b2c16d67f3%3A0xd0a344a6f7db6aec!2sRM%20Padang%20Lima%20Sekawan!5e0!3m2!1sen!2sus!4v1662178751602!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Padang Sabana",
+    "category": "nasi_padang",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/9RcEXWKSKaoro3wy9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1614.8133619561024!2d110.38018631246365!3d-7.764777970656191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b27c697f51%3A0xd7a55772a2bf67f1!2sRumah%20Makan%20Padang%20Sabana%20Murah%203%20UGM!5e0!3m2!1sen!2sus!4v1662178795699!5m2!1sen!2sus",
+    "notes": ""
+  }
+]

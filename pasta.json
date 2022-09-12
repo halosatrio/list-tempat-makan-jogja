@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Casa Pizza and Pasta",
+    "category": "pasta",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/casa_pizza_pasta?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.8383642010863!2d110.37533315088395!3d-7.806929879643907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a579d4248e261%3A0xeadee04323560da7!2sCasa%20Pizza%20and%20Pasta!5e0!3m2!1sen!2sus!4v1662017636773!5m2!1sen!2sus",
+    "notes": "terakhir baru mau nyobain udah close order"
+  },
+  {
+    "name": "Petit Paris Boulangerie",
+    "category": "pasta",
+    "region": "kota_yogyakarta",
+    "link": "https://g.page/PetitParisBoulangerie?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15812.630155355391!2d110.36811947780406!3d-7.77311399933759!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ca6220c707%3A0xff5f48b4ee072d46!2sPetit%20Paris%20Boulangerie%20and%20Bistro!5e0!3m2!1sen!2sus!4v1662017700017!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pasta Banget Signature",
+    "category": "pasta",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/khmBdpgRCrgvzYNK7",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.544424105668!2d110.37709619253513!3d-7.731927260988774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58fc771d3f6b%3A0x4534f2673a3c3bf7!2sPasta%20Banget%20Signature!5e0!3m2!1sen!2sus!4v1662017736222!5m2!1sen!2sus",
+    "notes": "murah tempat oke samping sawah bonus suara kodok sama jangkrik"
+  },
+  {
+    "name": "Koki Joni",
+    "category": "pasta",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/6bxW841AANdzoAbA8",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.1224317030014!2d110.37073595088368!3d-7.776840679283235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5835865f7e2b%3A0xbb186cab8d8ab69a!2sKoki%20Joni%20Pasta%20%26%20Turkey!5e0!3m2!1sen!2sus!4v1662017784548!5m2!1sen!2sus",
+    "notes": ""
+  },
+  {
+    "name": "Pronto",
+    "category": "pasta",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/suViJVR8NC6pa2JQ6",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.553170259061!2d110.37911662340089!3d-7.7359969273577605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58df82819397%3A0x5d9372a7b775aec1!2sNew%20Pronto%20Steak%20%26%20Pasta!5e0!3m2!1sen!2sid!4v1662750842869!5m2!1sen!2sid",
+    "notes": ""
+  }
+]
