@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Yozzo Frozen Yoghurt",
+    "category": "eskrim",
+    "region": "sleman",
+    "link": "https://goo.gl/maps/aNnJ1aAHaADJ687bA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2788409244026!2d110.37890081372602!3d-7.76022389440703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5f860aea15e3%3A0xd30d61e2cec52a50!2sYozzo%20-%20Frozen%20Yogurt!5e0!3m2!1sen!2sid!4v1663127313732!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Tempo Gelato",
+    "category": "eskrim",
+    "region": "sleman",
+    "link": "https://g.page/tempo-gelato-kaliurang?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4701.2308233414315!2d110.3748801328523!3d-7.763504981507726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59ac8eba7b9b%3A0xa481b43442a601bc!2sTempo%20Gelato!5e0!3m2!1sen!2sid!4v1663127353110!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Milky by Artemy",
+    "category": "eskrim",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/bCP4tbYSD7CpSghY9",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.0793231165985!2d110.36150091744385!3d-7.781414299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a583bcd351617%3A0xfab424e1b72e81e8!2sMilk%20by%20Artemy!5e0!3m2!1sen!2sid!4v1663127399913!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Massimo Gelato",
+    "category": "eskrim",
+    "region": "sleman",
+    "link": "https://g.page/massimogelatoyogya?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1976.572581443272!2d110.40750888397082!3d-7.7744279295540375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a591f2940012f%3A0x7cbdfd8c4a5a92a6!2sMassimo%20Gelato%20Yogyakarta!5e0!3m2!1sen!2sid!4v1663127445538!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Amore Gelato",
+    "category": "eskrim",
+    "region": "sleman",
+    "link": "https://g.page/amore-gelato-jogja?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2217329398313!2d110.40828241372618!3d-7.766295094402788!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7af9032280ca85%3A0x29886d0b3a158068!2sAMORE%20GELATO%20Seturan!5e0!3m2!1sen!2sid!4v1663127464673!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Let's Go Gelato",
+    "category": "eskrim",
+    "region": "kota_yogyakarta",
+    "link": "https://goo.gl/maps/N1nuYsxYNrRqzGjZA",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10553.363232700654!2d110.3615320026149!3d-7.785091054722744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5973e282ed43%3A0x59abded6dd7585f7!2sLetsgo%20Gelato%20Yogyakarta!5e0!3m2!1sen!2sid!4v1663127546905!5m2!1sen!2sid",
+    "notes": ""
+  },
+  {
+    "name": "Mou Gelato",
+    "category": "eskrim",
+    "region": "sleman",
+    "link": "https://g.page/mou-gelato-yogyakarta?share",
+    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2229628205537!2d110.40366781372613!3d-7.766164394402851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59505e37b8e5%3A0x2e11012fd29a7744!2sMou%20Gelato%20Yogyakarta!5e0!3m2!1sen!2sid!4v1663127568135!5m2!1sen!2sid",
+    "notes": ""
+  }
+]

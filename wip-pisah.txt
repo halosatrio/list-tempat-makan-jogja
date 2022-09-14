@@ -75,6 +75,7 @@ Bakmi Jawa [done]
 -Bakmi Jawa Pak Madyo
 -Bakmi Jawa Cinta Rasa Pak Sunar
 -Bakmi Bebek Proci
+-Bakmi Pak Bendot
 
 
 Nasi Padang [done]
@@ -508,6 +509,7 @@ seafood [done]
 -Sio Manise Seafood
 -Seafood Pak Gix
 -Kerang Blenger Jogja
+-ika hotplate
 -CumaCumiYk
 
 
@@ -544,13 +546,6 @@ dimsum [done]
 -Dimsum Maystar, menurutku sampe skg dimsum paling enak di jogja no debat
 
 
-hotplate [done]
--Tio Ciu Hotplate
--Ika Hotplate
--Annisa Hotplate
--Hotplate Pak No
-
-
 japan korea [done]
 -OHARANG AUCE
 -Niku BBQ, di Agenda dulu
@@ -579,6 +574,75 @@ japan korea [done]
 -Sushi Story
 -Karrhea By Tantyana
 
+
+chinese [done]
+-RM Mahkota
+-RM Baru
+-Chinese Food Pak Lay, chinese fooe halal paling enak di Yk
+-Warung Yanto
+-Tio Ciu Bang Sinyo
+-Keray Indah Chinese Food
+-Annisa Chinese Food
+-Blengerr
+-Sari Eco
+-Warung AD
+-Moroseneng
+-Summer Palace, Hotel Tentrem
+-Tio Ciu Gondolayu paling enak, THE OG
+-RM Gajah Jaya
+-RM Colombo
+-RM Lie Djiong, termasuk chinese food paling enak di Yk sih
+-KongKong Chinese Food
+-RM Lezat Medan
+-Serayu Chinese Restaurant, di Grand Quality Hotel
+-Bamboo Resto
+-Restoran Sintawang
+-Ching San, Hotel Melia Purosani
+-Kobra Imperial Kitchen
+-Hotplate Pak No
+
+
+nonhalal [done]
+-Warung 52
+-Bu Kadek Khas Bali
+-Warung Bu Komang☆
+-Bima Kroda☆
+-Nasgor Babi Papilon☆
+-Bakmi Ketandan, Nasgor Ketandan Bhayangkara☆
+-Lima Serangkai ☆
+-Babi Racing Koh JW ☆
+-Pothz Burger
+-RM 88 Panpan
+-Warung Buto
+-Mie Bak Chen Chen
+-Sate Babi Ketandan
+-East Pork Sei Babi
+-Kedai Manalagi
+-Piggylicious
+-Charlie King
+-Kedai Piggies
+
+
+eskrim [done]
+-Yozzo Frozen Yoghurt
+-Tempo Gelato 
+-Milky by Artemy
+-Massimo Gelato
+-Amore Gelato
+-Mary Anne Artisan Ice Cream
+-Ciao Gelato
+-Let's Go Gelato
+-Mou Gelato
+
+
+
+warmindo [done]
+-Indomie Nyemek Bu Siti enak si tapi ramenya ya Allah
+-Indomie Nyemek Mak Iyah
+-Burjo Malatax, Burjo Ijo, Burjo Hejo. Holy Trinity perburjoan
+-Burjo Sami Asih kandang banteng
+-Burjo Motekar, buset ini cabangnya di mana2 dah liat aja angka belakang namanya kayanya Nyampe Motekar 40 ada kali. Menunya banyak yg unik2 enak
+-Indomie Padang Munggur Minang best
 
 
 other [done]
