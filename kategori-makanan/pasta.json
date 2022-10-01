@@ -1,5 +1,6 @@
 [
   {
+    "slug": "casa-pizza-and-pasta",
     "name": "Casa Pizza and Pasta",
     "category": "pasta",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "terakhir baru mau nyobain udah close order"
   },
   {
+    "slug": "petit-paris-boulangerie",
     "name": "Petit Paris Boulangerie",
     "category": "pasta",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "pasta-banget-signature",
     "name": "Pasta Banget Signature",
     "category": "pasta",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": "murah tempat oke samping sawah bonus suara kodok sama jangkrik"
   },
   {
+    "slug": "koki-joni",
     "name": "Koki Joni",
     "category": "pasta",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "pronto",
     "name": "Pronto",
     "category": "pasta",
     "region": "sleman",

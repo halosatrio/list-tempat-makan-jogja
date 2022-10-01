@@ -1,5 +1,6 @@
 [
   {
+    "slug": "siomay-batagor-aa",
     "name": "Siomay Batagor AA",
     "category": "siomay",
     "region": "bantul",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-ratman",
     "name": "Siomay Batagor Ratman",
     "category": "siomay",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-tugiyat",
     "name": "Siomay Batagor Tugiyat",
     "category": "siomay",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-kang-deni",
     "name": "Siomay Batagor Kang Deni",
     "category": "siomay",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-bandung-raos",
     "name": "Siomay Batagor Bandung Raos",
     "category": "siomay",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-154",
     "name": "Siomay Batagor 154",
     "category": "siomay",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-kang-cepot",
     "name": "Siomay Batagor Kang Cepot",
     "category": "siomay",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-batagor-kang-is",
     "name": "Siomay Batagor Kang Is",
     "category": "siomay",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": "enak si tp paling mahal kayanya"
   },
   {
+    "slug": "siomay-telkom",
     "name": "Siomay Telkom",
     "category": "siomay",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-shinchan",
     "name": "Siomay Shinchan",
     "category": "siomay",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": "enak tp rebus semua"
   },
   {
+    "slug": "siomay-kang-ujang",
     "name": "Siomay Kang Ujang",
     "category": "siomay",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-mandala",
     "name": "Siomay Mandala",
     "category": "siomay",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "siomay-mirza",
     "name": "Siomay Mirza",
     "category": "siomay",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes": "banyak yg demen si tp aku b aja"
   },
   {
+    "slug": "siomay-balai-kota",
     "name": "Siomay Balai Kota paling murah wkwk",
     "category": "siomay",
     "region": "kota_yogyakarta",

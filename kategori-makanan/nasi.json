@@ -1,5 +1,6 @@
 [
   {
+    "slug": "nasi-kulit-empire-samping-platinum",
     "name": "Nasi Kulit Empire samping Platinum",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "seumur2 makan di sini tp sober baru 3x kayanya"
   },
   {
+    "slug": "nasi-kulit-syurga",
     "name": "Nasi Kulit Syurga",
     "category": "nasi",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": "mending kulit sama parunya aja"
   },
   {
+    "slug": "nasi-pindang-inna",
     "name": "Nasi Pindang Inna",
     "category": "nasi",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-kuning-muna-cung",
     "name": "Nasi Kuning Muna Cung",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": "naskun gg ini di Beskalan"
   },
   {
+    "slug": "nasi-kuning-bu-yuli-alkid",
     "name": "Nasi Kuning Bu Yuli Alkid",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-kuning-bu-tuty",
     "name": "Nasi Kuning Bu Tuty",
     "category": "nasi",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-gurih-mbak-tuki",
     "name": "Nasi Gurih Mbak Tuki",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-soon-deket-jogjatronik",
     "name": "Nasi Soon deket Jogjatronik",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes": "lesehan tp 1jam udah abis buset, ga yg wow enak gtu si tapi"
   },
   {
+    "slug": "nasi-bakmoy-kemayu",
     "name": "Nasi Bakmoy Kemayu",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": "jd kangen Bakmoy Kantin FH dlu"
   },
   {
+    "slug": "nasi-rawon-warung-mamiku",
     "name": "Nasi Rawon Warung Mamiku",
     "category": "nasi",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-rawon-dapur-syurga",
     "name": "Nasi Rawon Dapur Syurga",
     "category": "nasi",
     "region": "sleman",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-rawon-cak-sukar",
     "name": "Nasi Rawon Cak Sukar",
     "category": "nasi",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-rawon-putra-cantel",
     "name": "Nasi Rawon Putra Cantel",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "rawon-bu-sudi-gejayan",
     "name": "Rawon Bu Sudi Gejayan",
     "category": "nasi",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-ayam-bu-bibit-ntap",
     "name": "Nasi Uduk Ayam Bu Bibit ntap",
     "category": "nasi",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-gejayan",
     "name": "Nasi Uduk Gejayan",
     "category": "nasi",
     "region": "sleman",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-bandul",
     "name": "Nasi Uduk Bandul",
     "category": "nasi",
     "region": "bantul",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-palagan",
     "name": "Nasi Uduk Palagan",
     "category": "nasi",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-h-rojali",
     "name": "Nasi Uduk H. Rojali",
     "category": "nasi",
     "region": "sleman",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-uduk-bu-tuty",
     "name": "Nasi Uduk Bu Tuty",
     "category": "nasi",
     "region": "sleman",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "sego-megono-gedongkuning",
     "name": "Sego Megono Gedongkuning",
     "category": "nasi",
     "region": "bantul",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "sego-megono-kang-ali",
     "name": "Sego Megono Kang Ali",
     "category": "nasi",
     "region": "sleman",
@@ -176,6 +198,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-koyor-bu-parman",
     "name": "Nasi Koyor Bu Parman",
     "category": "nasi",
     "region": "kota_yogyakarta",
@@ -184,6 +207,7 @@
     "notes": "koyor tuh kikil"
   },
   {
+    "slug": "nasi-sop-empal-bu-wignyo",
     "name": "Nasi Sop Empal Bu Wignyo",
     "category": "nasi",
     "region": "kota_yogyakarta",

@@ -1,5 +1,6 @@
 [
   {
+    "slug": "nasgor-aa-ykpn",
     "name": "Nasgor AA YKPN",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-notaris",
     "name": "Nasgor Notaris",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-mr-bean",
     "name": "Nasgor Mr Bean",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-padmanaba",
     "name": "Nasgor Padmanaba",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-samsat",
     "name": "Nasgor Samsat",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-candela",
     "name": "Nasgor Candela",
     "category": "nasi_goreng",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-mandiri-gejayan-babat-iso",
     "name": "Nasgor Mandiri Gejayan Babat Iso",
     "category": "nasi_goreng",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-mandiri-vokasi-babat-iso",
     "name": "Nasgor Mandiri Vokasi Babat Iso",
     "category": "nasi_goreng",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-bu-ita",
     "name": "Nasgor Bu Ita",
     "category": "nasi_goreng",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-manutnasgor-kekian-bestik",
     "name": "Nasgor ManutNasgor Kekian Bestik",
     "category": "nasi_goreng",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": "Nasgor Kekian Bestik"
   },
   {
+    "slug": "nasgor-kare-masakan-ala-malaysia",
     "name": "Nasgor Kare Masakan Ala Malaysia",
     "category": "nasi_goreng",
     "region": "sleman",

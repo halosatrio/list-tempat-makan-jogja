@@ -1,5 +1,6 @@
 [
   {
+    "slug": "rnb-grill",
     "name": "RnB Grill",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "atau beli dagingnya aja ntar aku yg masak steaknya 👌 hhh"
   },
   {
+    "slug": "bomba-steak",
     "name": "Bomba Steak",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "big-belly-steak",
     "name": "Big Belly Steak",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": "reserve dulu, ya 750k an lah dapet Ribeye"
   },
   {
+    "slug": "joglo-steak",
     "name": "Joglo Steak",
     "category": "sapi",
     "region": "bantul",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "steak-tenda",
     "name": "Steak Tenda",
     "category": "sapi",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "bellywise",
     "name": "Bellywise",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -48,6 +54,7 @@
     "notes": "penjajahan vibes"
   },
   {
+    "slug": "holycow",
     "name": "Holycow",
     "category": "sapi",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": "lupa masi ada ga ya di yk, klo ultah mayan dapet gratis steak hhhh"
   },
   {
+    "slug": "holy-smokes",
     "name": "Holy Smokes",
     "category": "sapi",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "iga-bakar-sapi-bali",
     "name": "Iga Bakar Sapi Bali",
     "category": "sapi",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": "2018an makan 2 orang ya 250rb an lah, tp rasanya ga seenak yg aku bayangin dan ga pedes, cm dagingnya empuk bgt"
   },
   {
+    "slug": "iga-bajog",
     "name": "Iga Bajog",
     "category": "sapi",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "iga-bakar-si-bangor",
     "name": "Iga Bakar Si Bangor",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "sei-sapi-kana",
     "name": "Sei Sapi Kana",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "sei-sapi-bone",
     "name": "Sei Sapi Bone",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "sei-sapi-talalu",
     "name": "Sei Sapi Talalu",
     "category": "sapi",
     "region": "kota_yogyakarta",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "sei-sapi-maumere",
     "name": "Sei Sapi Maumere",
     "category": "sapi",
     "region": "kota_yogyakarta",

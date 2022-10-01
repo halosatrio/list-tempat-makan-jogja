@@ -1,5 +1,6 @@
 [
   {
+    "slug": "angkringan-doraemon-pak-tomi",
     "name": "Angkringan Doraemon Pak Tomi",
     "category": "angkringan",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "enak nih sore2 sambil liat kereta lewat"
   },
   {
+    "slug": "angkringan-lek-man",
     "name": "Angkringan Lek Man",
     "category": "angkringan",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": "angkringan turis ini mah"
   },
   {
+    "slug": "angkringan-pak-jabrix",
     "name": "Angkringan Pak Jabrix",
     "category": "angkringan",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "angkringan-nganggo-suwe",
     "name": "Angkringan Nganggo Suwe",
     "category": "angkringan",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": "percaya ga percaya sering jd tempat om2 ketemu selingkuhannya hhhhh"
   },
   {
+    "slug": "angkringan-batas-kota",
     "name": "Angkringan Batas Kota",
     "category": "angkringan",
     "region": "sleman",

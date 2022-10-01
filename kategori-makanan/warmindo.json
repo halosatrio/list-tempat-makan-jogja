@@ -1,5 +1,6 @@
 [
   {
+    "slug": "indomie-nyemek-bu-siti",
     "name": "Indomie Nyemek Bu Siti",
     "category": "warmindo",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": "enak si tapi ramenya ya Allah"
   },
   {
+    "slug": "burjo-malatax",
     "name": "Burjo Malatax",
     "category": "warmindo",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": "Burjo Malatax, Burjo Ijo, Burjo Hejo. Holy Trinity perburjoan"
   },
   {
+    "slug": "burjo-ijo",
     "name": "Burjo Ijo",
     "category": "warmindo",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": "Burjo Malatax, Burjo Ijo, Burjo Hejo. Holy Trinity perburjoan"
   },
   {
+    "slug": "burjo-hejo",
     "name": "Burjo Hejo",
     "category": "warmindo",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": "Burjo Malatax, Burjo Ijo, Burjo Hejo. Holy Trinity perburjoan"
   },
   {
+    "slug": "burjo-sami-asih",
     "name": "Burjo Sami Asih",
     "category": "warmindo",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": "kandang banteng"
   },
   {
+    "slug": "indomie-padang-munggur-minang",
     "name": "Indomie Padang Munggur Minang",
     "category": "warmindo",
     "region": "kota_yogyakarta",

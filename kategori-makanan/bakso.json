@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bakso-dab-supri",
     "name": "Bakso Dab Supri",
     "category": "bakso",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-pak-min-kraton",
     "name": "Bakso Pak Min Kraton",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-balungan-pak-granat",
     "name": "Bakso Balungan Pak Granat",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-pak-tulus",
     "name": "Bakso Pak Tulus",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-jawi-bu-miyar",
     "name": "Bakso Jawi Bu Miyar",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-ironayan",
     "name": "Bakso Ironayan",
     "category": "bakso",
     "region": "bantul",
@@ -48,6 +54,7 @@
     "notes:": "ini jg enak"
   },
   {
+    "slug": "bakso-pak-marno",
     "name": "Bakso Pak Marno",
     "category": "bakso",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes:": "bukanya malem"
   },
   {
+    "slug": "bakso-es-buah-pk",
     "name": "Bakso Es Buah PK",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-klenger",
     "name": "Bakso Klenger",
     "category": "bakso",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-mblenger-sagan",
     "name": "Bakso Mblenger (Sagan)",
     "category": "bakso",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-pak-kumpeno",
     "name": "Bakso Pak Kumpeno",
     "category": "bakso",
     "region": "sleman",
@@ -88,6 +99,7 @@
     "notes:": "pake paru goreng"
   },
   {
+    "slug": "bakso-ito",
     "name": "Bakso ITO",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes:": "halal ga ya lupa hhh"
   },
   {
+    "slug": "bakso-krikil-pak-supri",
     "name": "Bakso Krikil Pak Supri",
     "category": "bakso",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-lombok-uleg-pak-di",
     "name": "Bakso Lombok Uleg Pak Di",
     "category": "bakso",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-urat-dpr",
     "name": "Bakso Urat DPR",
     "category": "bakso",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes:": "sering lewat tp blm pernah coba"
   },
   {
+    "slug": "bakso-pak-koboi",
     "name": "Bakso Pak Koboi",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -128,6 +144,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-bakar-mercon-kotagede",
     "name": "Bakso Bakar Mercon Kotagede",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -136,6 +153,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-tusuk-bca-jakal",
     "name": "Bakso Tusuk BCA Jakal",
     "category": "bakso",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-bethesda",
     "name": "Bakso Bethesda",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes:": "recommended"
   },
   {
+    "slug": "bakso-malang-dr-yap",
     "name": "Bakso Malang dr Yap",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -160,6 +180,7 @@
     "notes:": "ini murah enak"
   },
   {
+    "slug": "bakso-pak-jenggot",
     "name": "Bakso Pak Jenggot",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -168,6 +189,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-telkom",
     "name": "Bakso Telkom",
     "category": "bakso",
     "region": "kota_yogyakarta",
@@ -176,6 +198,7 @@
     "notes:": ""
   },
   {
+    "slug": "bakso-cenghar",
     "name": "Bakso Cenghar",
     "category": "bakso",
     "region": "kota_yogyakarta",

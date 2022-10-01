@@ -1,5 +1,6 @@
 [
   {
+    "slug": "sop-kaki-kambing-999",
     "name": "Sop Kaki Kambing 999",
     "category": "sop",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": "enak worth the price"
   },
   {
+    "slug": "sop-kaki-kambing-tiga-saudara",
     "name": "Sop Kaki Kambing Tiga Saudara",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-kaki-kambing-bang-udin",
     "name": "Sop Kaki Kambing Bang Udin",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-kaki-kambing-tiga-dara",
     "name": "Sop Kaki Kambing Tiga Dara",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-kaki-kambing-pak-endun",
     "name": "Sop Kaki Kambing Pak Endun",
     "category": "sop",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-kaki-kambing-balibul",
     "name": "Sop Kaki Kambing Balibul",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-kaki-kambing-bang-doel",
     "name": "Sop Kaki Kambing Bang Doel",
     "category": "sop",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-sapi-cak-ragil",
     "name": "Sop Sapi Cak Ragil",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-sate-sapi-pak-bayu",
     "name": "Sop Sate Sapi Pak Bayu",
     "category": "sop",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-sapi-lek-min",
     "name": "Sop Sapi Lek Min",
     "category": "sop",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-buntut-pak-sugeng",
     "name": "Sop Buntut Pak Sugeng",
     "category": "sop",
     "region": "kota_yogyakarta",

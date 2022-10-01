@@ -1,5 +1,6 @@
 [
   {
+    "slug": "gule-sapi-tugu",
     "name": "Gule Sapi Tugu",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "gule-satelit-gejayan",
     "name": "Gule Satelit Gejayan",
     "category": "gule",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "gule-bang-jago",
     "name": "Gule Bang Jago",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "gule-sapi-grojogan",
     "name": "Gule Sapi Grojogan",
     "category": "gule",
     "region": "bantul",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-iga-rindu-alam",
     "name": "Sop Iga Rindu Alam",
     "category": "gule",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-iga-sekar-raos",
     "name": "Sop Iga Sekar Raos",
     "category": "gule",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-iga-pakualaman",
     "name": "Sop Iga Pakualaman",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "sop-iga-warung-mamiku",
     "name": "Sop Iga Warung Mamiku",
     "category": "gule",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "tengkleng-gajah",
     "name": "Tengkleng Gajah",
     "category": "gule",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "tengkleng-bhenjoyo",
     "name": "Tengkleng Bhenjoyo",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "tongseng-pak-min",
     "name": "Tongseng Pak Min",
     "category": "gule",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "ketupat-gule-bang-doel",
     "name": "Ketupat Gule Bang Doel",
     "category": "gule",
     "region": "sleman",

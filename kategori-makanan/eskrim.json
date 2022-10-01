@@ -1,5 +1,6 @@
 [
   {
+    "slug": "yozzo-frozen-yoghurt",
     "name": "Yozzo Frozen Yoghurt",
     "category": "eskrim",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "tempo-gelato",
     "name": "Tempo Gelato",
     "category": "eskrim",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "milky-by-artemy",
     "name": "Milky by Artemy",
     "category": "eskrim",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "massimo-gelato",
     "name": "Massimo Gelato",
     "category": "eskrim",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "amore-gelato",
     "name": "Amore Gelato",
     "category": "eskrim",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "lets-go-gelato",
     "name": "Let's Go Gelato",
     "category": "eskrim",
     "region": "kota_yogyakarta",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "mou-gelato",
     "name": "Mou Gelato",
     "category": "eskrim",
     "region": "sleman",

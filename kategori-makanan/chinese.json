@@ -1,5 +1,6 @@
 [
   {
+    "slug": "rm-mahkota",
     "name": "RM Mahkota",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "rm-baru",
     "name": "RM Baru",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "chinese-food-pak-lay",
     "name": "Chinese Food Pak Lay",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": "chinese fooe halal paling enak di Yk"
   },
   {
+    "slug": "warung-yanto",
     "name": "Warung Yanto",
     "category": "chinese",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "tio-ciu-bang-sinyo",
     "name": "Tio Ciu Bang Sinyo",
     "category": "chinese",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "keray-indah-chinese-food",
     "name": "Keray Indah Chinese Food",
     "category": "chinese",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "annisa-chinese-food",
     "name": "Annisa Chinese Food",
     "category": "chinese",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "blengerr",
     "name": "Blengerr",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "sari-eco",
     "name": "Sari Eco",
     "category": "chinese",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "warung-ad",
     "name": "Warung AD",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "summer-palace-hotel-tentrem",
     "name": "Summer Palace, Hotel Tentrem",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "tio-ciu-gondolayu",
     "name": "Tio Ciu Gondolayu",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": "paling enak, THE OG"
   },
   {
+    "slug": "rm-gajah-jaya",
     "name": "RM Gajah Jaya",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "rm-colombo",
     "name": "RM Colombo",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "rm-lie-djiong",
     "name": "RM Lie Djiong",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -120,6 +135,7 @@
     "notes": "termasuk chinese food paling enak di Yk sih"
   },
   {
+    "slug": "kongkong-chinese-food",
     "name": "KongKong Chinese Food",
     "category": "chinese",
     "region": "sleman",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "rm-lezat-medan",
     "name": "RM Lezat Medan",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "serayu-chinese-restaurant",
     "name": "Serayu Chinese Restaurant",
     "category": "chinese",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes": "di Grand Quality Hotel"
   },
   {
+    "slug": "ching-san-hotel-melia-purosani",
     "name": "Ching San, Hotel Melia Purosani",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "kobra-imperial-kitchen",
     "name": "Kobra Imperial Kitchen",
     "category": "chinese",
     "region": "kota_yogyakarta",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "hotplate-pak-no",
     "name": "Hotplate Pak No",
     "category": "chinese",
     "region": "sleman",

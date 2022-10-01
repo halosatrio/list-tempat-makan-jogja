@@ -1,5 +1,6 @@
 [
   {
+    "slug": "kepiting-cak-gundul",
     "name": "Kepiting Cak Gundul",
     "category": "seafood",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": "ini kepiting paling oke di yk"
   },
   {
+    "slug": "ikan-bakar-bu-bambang",
     "name": "Ikan Bakar Bu Bambang",
     "category": "seafood",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "ikan-bakar-makassar",
     "name": "Ikan Bakar Makassar",
     "category": "seafood",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "ikan-bakar-sulawesi-perumnas",
     "name": "Ikan Bakar Sulawesi Perumnas",
     "category": "seafood",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "ikan-bakar-rasa-sayange",
     "name": "Ikan Bakar Rasa Sayange",
     "category": "seafood",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": "paling recommended klo menurutku, sambel colo2nya enak, ikan baronang kayanya paling aman"
   },
   {
+    "slug": "ikan-bakar-sukasuka",
     "name": "Ikan Bakar SukaSuka",
     "category": "seafood",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "seafood-serantau",
     "name": "Seafood Serantau",
     "category": "seafood",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "kedai-lobster-pak-sis",
     "name": "Kedai Lobster Pak Sis",
     "category": "seafood",
     "region": "gunungkidul",
@@ -64,6 +72,7 @@
     "notes": "paling 1 paket 4 orang 600k"
   },
   {
+    "slug": "kerang-seafood-lenmbur-kuring",
     "name": "Kerang Seafood Lenmbur Kuring",
     "category": "seafood",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "seafood-pak-purwanto",
     "name": "Seafood Pak Purwanto",
     "category": "seafood",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "sio-manise-seafood",
     "name": "Sio Manise Seafood",
     "category": "seafood",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "seafood-pak-gix",
     "name": "Seafood Pak Gix",
     "category": "seafood",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "kerang-blenger-jogja",
     "name": "Kerang Blenger Jogja",
     "category": "seafood",
     "region": "kota_yogyakarta",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "ika-hotplate",
     "name": "Ika Hotplate",
     "category": "seafood",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "cumacumiyk",
     "name": "CumaCumiYk",
     "category": "seafood",
     "region": "sleman",

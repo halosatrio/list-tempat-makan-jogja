@@ -1,5 +1,6 @@
 [
   {
+    "slug": "roti-bakar-dunkin",
     "name": "Roti Bakar Dunkin",
     "category": "roti_bakar",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "roti-bakar-kehutanan",
     "name": "Roti Bakar Kehutanan",
     "category": "roti_bakar",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "roti-bakar-terminal-congcat",
     "name": "Roti Bakar Terminal Congcat",
     "category": "roti_bakar",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "roti-bakar-kukus-one-spesial",
     "name": "Roti Bakar Kukus One Spesial",
     "category": "roti_bakar",
     "region": "kota_yogyakarta",

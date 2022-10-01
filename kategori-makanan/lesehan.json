@@ -1,5 +1,6 @@
 [
   {
+    "slug": "lesehan-restu-ibu-jamal",
     "name": "Lesehan Restu Ibu Jamal",
     "category": "lesehan",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "lesehan-dara",
     "name": "Lesehan Dara",
     "category": "lesehan",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "lesehan-terang-bulan",
     "name": "Lesehan Terang Bulan",
     "category": "lesehan",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "pecel-lele-cak-anto",
     "name": "Pecel Lele Cak Anto",
     "category": "lesehan",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "pecel-lele-depan-superindo-babarsari",
     "name": "Pecel Lele depan Superindo Babarsari",
     "category": "lesehan",
     "region": "sleman",

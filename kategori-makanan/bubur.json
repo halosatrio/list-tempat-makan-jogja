@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bubur-yoyong",
     "name": "Bubur Yoyong",
     "category": "bubur",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "assalamualaikum ayo sarapan banyak menu enak gas"
   },
   {
+    "slug": "bubur-ayam-az-zahra",
     "name": "Bubur Ayam Az Zahra",
     "category": "bubur",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "bubur-ayam-demangan",
     "name": "Bubur Ayam Demangan",
     "category": "bubur",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "bubur-ayam-karunia",
     "name": "Bubur Ayam Karunia",
     "category": "bubur",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "bubur-ayam-syarifah",
     "name": "Bubur Ayam Syarifah",
     "category": "bubur",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "bubur-ayam-hj-teti",
     "name": "Bubur Ayam Hj Teti",
     "category": "bubur",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "ta-wan-hartono-mall",
     "name": "Ta Wan Hartono Mall",
     "category": "bubur",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "bubur-ayamnya-opa",
     "name": "Bubur Ayamnya Opa",
     "category": "bubur",
     "region": "kota_yogyakarta",

@@ -1,5 +1,6 @@
 [
   {
+    "slug": "oharang-auce",
     "name": "OHARANG (AUCE)",
     "category": "japan_korea",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "niku-bbq",
     "name": "Niku BBQ",
     "category": "japan_korea",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": "di Agenda dulu"
   },
   {
+    "slug": "pocchajang",
     "name": "Pocchajang",
     "category": "japan_korea",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "shabu-auce",
     "name": "Shabu (AUCE)",
     "category": "japan_korea",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": "ga worth it si menurutku"
   },
   {
+    "slug": "matjeo-korean-grill",
     "name": "Matjeo Korean Grill",
     "category": "japan_korea",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "seorae",
     "name": "Seorae",
     "category": "japan_korea",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "kakkoii",
     "name": "Kakkoii",
     "category": "japan_korea",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "kintan",
     "name": "Kintan",
     "category": "japan_korea",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "gyukaku",
     "name": "Gyukaku",
     "category": "japan_korea",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "bornga",
     "name": "Bornga",
     "category": "japan_korea",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": "ga auce sih tapi enak!"
   },
   {
+    "slug": "silla-korean-and-japanese",
     "name": "Silla Korean and Japanese",
     "category": "japan_korea",
     "region": "sleman",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "yoshinoya",
     "name": "Yoshinoya",
     "category": "japan_korea",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "marugame",
     "name": "Marugame",
     "category": "japan_korea",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "hokben-jakal",
     "name": "Hokben Jakal",
     "category": "japan_korea",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "toratora",
     "name": "ToraTora",
     "category": "japan_korea",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": "alias Hokben versi murmer"
   },
   {
+    "slug": "sushi-tei",
     "name": "Sushi Tei",
     "category": "japan_korea",
     "region": "sleman",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "hikaru-dining",
     "name": "Hikaru Dining",
     "category": "japan_korea",
     "region": "sleman",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "kimokatsu-sushi",
     "name": "Kimokatsu Sushi",
     "category": "japan_korea",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "am-co-sushi",
     "name": "A&M Co Sushi",
     "category": "japan_korea",
     "region": "sleman",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "genki-sushi",
     "name": "Genki Sushi",
     "category": "japan_korea",
     "region": "sleman",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "ichiban-sushi",
     "name": "Ichiban Sushi",
     "category": "japan_korea",
     "region": "sleman",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "nagoya-japanese-fushion",
     "name": "Nagoya Japanese Fushion",
     "category": "japan_korea",
     "region": "kota_yogyakarta",
@@ -176,6 +198,7 @@
     "notes": ""
   },
   {
+    "slug": "sumo-sushi",
     "name": "Sumo Sushi",
     "category": "japan_korea",
     "region": "kota_yogyakarta",
@@ -184,6 +207,7 @@
     "notes": ""
   },
   {
+    "slug": "sushi-story",
     "name": "Sushi Story",
     "category": "japan_korea",
     "region": "sleman",

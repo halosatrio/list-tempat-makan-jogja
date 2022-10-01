@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bumi-langit-institute",
     "name": "Bumi Langit Institute",
     "category": "other",
     "region": "bantul",
@@ -8,6 +9,7 @@
     "notes": "oke bgt sih buat weekend getaway, alam2 gtu tempatnya"
   },
   {
+    "slug": "tirto-raharjo-jogja",
     "name": "Tirto Raharjo Jogja",
     "category": "other",
     "region": "bantul",
@@ -16,6 +18,7 @@
     "notes": "ini buat ramean modelan triple date gtu oke hhh banyak candi2nya, sekalian nginep"
   },
   {
+    "slug": "queen-of-the-south",
     "name": "Queen of the South",
     "category": "other",
     "region": "bantul",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "eskala",
     "name": "Eskala",
     "category": "other",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "terrace-cafe",
     "name": "Terrace Cafe",
     "category": "other",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "kolona",
     "name": "Kolona",
     "category": "other",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "epic",
     "name": "Epic",
     "category": "other",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "bogeys",
     "name": "Bogey's",
     "category": "other",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "ibis-skybar",
     "name": "Ibis Skybar",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "el-patio",
     "name": "El Patio",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "easy-garden",
     "name": "Easy Garden",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "sasanti",
     "name": "Sasanti",
     "category": "other",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "domah-lotus-cafe",
     "name": "d'Omah Lotus Cafe",
     "category": "other",
     "region": "bantul",
@@ -104,6 +117,7 @@
     "notes": "isinya literally banyak lotus"
   },
   {
+    "slug": "waroeng-pohon-omah-sawah",
     "name": "Waroeng Pohon Omah Sawah",
     "category": "other",
     "region": "bantul",
@@ -112,6 +126,7 @@
     "notes": "ini jg tempatnya ok"
   },
   {
+    "slug": "watu-langit",
     "name": "Watu Langit",
     "category": "other",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": ""
   },
   {
+    "slug": "jiwajawi-jogja",
     "name": "JiwaJawi Jogja",
     "category": "other",
     "region": "bantul",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "tugu-lor",
     "name": "Tugu Lor",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "viavia",
     "name": "ViaVia",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "honje",
     "name": "Honje",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "samazana",
     "name": "Samazana",
     "category": "other",
     "region": "sleman",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "bale-raos",
     "name": "Bale Raos",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "sekar-kedhaton",
     "name": "Sekar Kedhaton",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -176,6 +198,7 @@
     "notes": ""
   },
   {
+    "slug": "toscana",
     "name": "Toscana",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -184,6 +207,7 @@
     "notes": ""
   },
   {
+    "slug": "mak-semarangan",
     "name": "Mak Semarangan",
     "category": "other",
     "region": "sleman",
@@ -192,6 +216,7 @@
     "notes": ""
   },
   {
+    "slug": "peppermint",
     "name": "Peppermint",
     "category": "other",
     "region": "sleman",
@@ -200,6 +225,7 @@
     "notes": ""
   },
   {
+    "slug": "the-warung-gurugiristay",
     "name": "The Warung Gurugiristay",
     "category": "other",
     "region": "bantul",
@@ -208,6 +234,7 @@
     "notes": ""
   },
   {
+    "slug": "slays-deli",
     "name": "Slays Deli",
     "category": "other",
     "region": "sleman",
@@ -216,6 +243,7 @@
     "notes": ""
   },
   {
+    "slug": "marikatsu",
     "name": "Marikatsu",
     "category": "other",
     "region": "sleman",
@@ -224,6 +252,7 @@
     "notes": ""
   },
   {
+    "slug": "truffle-belly",
     "name": "Truffle Belly",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -232,6 +261,7 @@
     "notes": ""
   },
   {
+    "slug": "shokudou-japanese-foodcourt",
     "name": "Shokudou Japanese Foodcourt",
     "category": "other",
     "region": "sleman",
@@ -240,6 +270,7 @@
     "notes": ""
   },
   {
+    "slug": "eastern-kopi-tm",
     "name": "Eastern Kopi TM",
     "category": "other",
     "region": "sleman",
@@ -248,6 +279,7 @@
     "notes": ""
   },
   {
+    "slug": "upnormal",
     "name": "Upnormal",
     "category": "other",
     "region": "sleman",
@@ -256,6 +288,7 @@
     "notes": ""
   },
   {
+    "slug": "legit",
     "name": "Legit",
     "category": "other",
     "region": "sleman",
@@ -264,6 +297,7 @@
     "notes": ""
   },
   {
+    "slug": "kedai-rukun",
     "name": "Kedai Rukun",
     "category": "other",
     "region": "bantul",
@@ -272,6 +306,7 @@
     "notes": ""
   },
   {
+    "slug": "dmonaco",
     "name": "DMonaco",
     "category": "other",
     "region": "sleman",
@@ -280,6 +315,7 @@
     "notes": "bagus di tempat doang si"
   },
   {
+    "slug": "katakita",
     "name": "Katakita",
     "category": "other",
     "region": "sleman",
@@ -288,6 +324,7 @@
     "notes": ""
   },
   {
+    "slug": "iconic",
     "name": "Iconic",
     "category": "other",
     "region": "sleman",
@@ -296,6 +333,7 @@
     "notes": ""
   },
   {
+    "slug": "parsley",
     "name": "Parsley",
     "category": "other",
     "region": "sleman",
@@ -304,6 +342,7 @@
     "notes": ""
   },
   {
+    "slug": "the-ducking",
     "name": "The Ducking",
     "category": "other",
     "region": "sleman",
@@ -312,6 +351,7 @@
     "notes": ""
   },
   {
+    "slug": "kimukatsu",
     "name": "Kimukatsu",
     "category": "other",
     "region": "sleman",
@@ -320,6 +360,7 @@
     "notes": ""
   },
   {
+    "slug": "mcd-jakal",
     "name": "McD Jakal",
     "category": "other",
     "region": "sleman",
@@ -328,6 +369,7 @@
     "notes": "katanya rasanya beda soalnya ada aroma2 yg mengingatkan jaman ngerjain skripsi sampe pagi tp ga di acc2 dosen hhh"
   },
   {
+    "slug": "solaria",
     "name": "Solaria",
     "category": "other",
     "region": "sleman",
@@ -336,6 +378,7 @@
     "notes": ""
   },
   {
+    "slug": "plate-o",
     "name": "Plate O",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -344,6 +387,7 @@
     "notes": "wkaka versi murahnya Pepper Lunch"
   },
   {
+    "slug": "roca-artotel",
     "name": "Roca Artotel",
     "category": "other",
     "region": "sleman",
@@ -352,6 +396,7 @@
     "notes": "buat nongkrong sih enak ya, buat belajar skip wk"
   },
   {
+    "slug": "suwatu",
     "name": "Suwatu",
     "category": "other",
     "region": "sleman",
@@ -360,6 +405,7 @@
     "notes": ""
   },
   {
+    "slug": "swasana",
     "name": "Swasana",
     "category": "other",
     "region": "sleman",
@@ -368,6 +414,7 @@
     "notes": ""
   },
   {
+    "slug": "lesung",
     "name": "Lesung",
     "category": "other",
     "region": "sleman",
@@ -376,6 +423,7 @@
     "notes": ""
   },
   {
+    "slug": "abhayagiri",
     "name": "Abhayagiri",
     "category": "other",
     "region": "sleman",
@@ -384,6 +432,7 @@
     "notes": "klo mau dinner romantis tp makanannya b aja dan mahal, bener2 dateng buat viewnya"
   },
   {
+    "slug": "meditteranea",
     "name": "Meditteranea",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -392,6 +441,7 @@
     "notes": "nah ini dinner paling worth it udah, enak dan harganya murah"
   },
   {
+    "slug": "roaster-and-bear",
     "name": "Roaster and Bear",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -400,6 +450,7 @@
     "notes": ""
   },
   {
+    "slug": "mils",
     "name": "MIL'S",
     "category": "other",
     "region": "sleman",
@@ -408,6 +459,7 @@
     "notes": ""
   },
   {
+    "slug": "tarbush",
     "name": "Tarbush",
     "category": "other",
     "region": "sleman",
@@ -416,6 +468,7 @@
     "notes": "enak nih"
   },
   {
+    "slug": "rumah-kuliner-ateeya",
     "name": "Rumah Kuliner Ateeya",
     "category": "other",
     "region": "sleman",
@@ -424,6 +477,7 @@
     "notes": ""
   },
   {
+    "slug": "nasi-kebuli-republik",
     "name": "Nasi Kebuli Republik",
     "category": "other",
     "region": "sleman",
@@ -432,6 +486,7 @@
     "notes": ""
   },
   {
+    "slug": "emados-shawarma",
     "name": "Emado's Shawarma",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -440,6 +495,7 @@
     "notes": ""
   },
   {
+    "slug": "umar-restaurant",
     "name": "Umar Restaurant",
     "category": "other",
     "region": "sleman",
@@ -448,6 +504,7 @@
     "notes": ""
   },
   {
+    "slug": "mimbar-si-baud",
     "name": "Mimbar Si Baud",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -456,6 +513,7 @@
     "notes": ""
   },
   {
+    "slug": "phuket",
     "name": "Phuket",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -464,6 +522,7 @@
     "notes": ""
   },
   {
+    "slug": "indochine-bistro",
     "name": "Indochine Bistro",
     "category": "other",
     "region": "sleman",
@@ -472,6 +531,7 @@
     "notes": ""
   },
   {
+    "slug": "bongobong-auce",
     "name": "Bongobong (AUCE)",
     "category": "other",
     "region": "sleman",
@@ -480,6 +540,7 @@
     "notes": "murah sih tapi pulang2 dijamin bau soalnya minim AC"
   },
   {
+    "slug": "saffron-grand-aston",
     "name": "Saffron Grand Aston",
     "category": "other",
     "region": "kota_yogyakarta",
@@ -488,6 +549,7 @@
     "notes": "ga terlalu wow si"
   },
   {
+    "slug": "yogyakarta-kitchen-by-marriot",
     "name": "Yogyakarta Kitchen by Marriot nah ini mendingan",
     "category": "other",
     "region": "sleman",
@@ -496,6 +558,7 @@
     "notes": ""
   },
   {
+    "slug": "kayu-manis-restaurant",
     "name": "Kayu Manis Restaurant",
     "category": "other",
     "region": "kota_yogyakarta",

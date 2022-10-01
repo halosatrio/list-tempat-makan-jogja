@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bloomery",
     "name": "Bloomery",
     "category": "pastry",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "kalis",
     "name": "Kalis",
     "category": "pastry",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "cinema-bakery",
     "name": "Cinema Bakery",
     "category": "pastry",
     "region": "sleman",

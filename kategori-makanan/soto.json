@@ -1,5 +1,6 @@
 [
   {
+    "slug": "soto-ayam-61",
     "name": "Soto Ayam 61",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "legend nih daerah Malioboro"
   },
   {
+    "slug": "soto-ayam-pak-dalbe",
     "name": "Soto Ayam Pak Dalbe",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": "andalan klo kelas pagi kosong"
   },
   {
+    "slug": "soto-ayam-idola-pak-nanang",
     "name": "Soto Ayam Idola Pak Nanang",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-ayam-lenthok-pak-gareng",
     "name": "Soto Ayam Lenthok Pak Gareng",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": "klo gatau lenthok tuh artinya kaya perkedel gtu nanti dicampurin di sotonya"
   },
   {
+    "slug": "soto-ayam-lenthok-pak-yono",
     "name": "Soto Ayam Lenthok Pak Yono",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-ayam-simbok",
     "name": "Soto Ayam Simbok",
     "category": "soto",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": "murmer 8rb kenyang hhh"
   },
   {
+    "slug": "soto-bathok-mbah-katro",
     "name": "Soto Bathok Mbah Katro",
     "category": "soto",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": "isinya cm soto sm toge knp rame bgt ya"
   },
   {
+    "slug": "soto-kadipiro",
     "name": "Soto Kadipiro",
     "category": "soto",
     "region": "bantul",
@@ -64,6 +72,7 @@
     "notes": "gataudah mana yg asli"
   },
   {
+    "slug": "soto-sawah-bu-hj-hadi",
     "name": "Soto Sawah Bu Hj Hadi",
     "category": "soto",
     "region": "bantul",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-pak-zaenal",
     "name": "Soto Pak Zaenal",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-gerabah-mbok-tuginem",
     "name": "Soto Gerabah Mbok Tuginem",
     "category": "soto",
     "region": "sleman",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-lamongan-cak-mangku",
     "name": "Soto Lamongan Cak Mangku",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-lamongan-cak-eko",
     "name": "Soto Lamongan Cak Eko",
     "category": "soto",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-lamongan-hijroh",
     "name": "Soto Lamongan Hijroh",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sampah",
     "name": "Soto Sampah",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -120,6 +135,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-ayam-lumayan-kang-sarman",
     "name": "Soto Ayam Lumayan Kang Sarman",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -128,6 +144,7 @@
     "notes": "deket rumahku tp hhh"
   },
   {
+    "slug": "soto-pak-walgito",
     "name": "Soto Pak Walgito",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-mbah-tirto-tetelan",
     "name": "Soto Sapi Mbah Tirto Tetelan",
     "category": "soto",
     "region": "bantul",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-bu-cip",
     "name": "Soto Sapi Bu Cip",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-ngadiran",
     "name": "Soto Sapi Ngadiran",
     "category": "soto",
     "region": "sleman",
@@ -160,6 +180,7 @@
     "notes": "andalan since maba"
   },
   {
+    "slug": "soto-pak-narto",
     "name": "Soto Pak Narto",
     "category": "soto",
     "region": "sleman",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-seger-hj-fatimah",
     "name": "Soto Seger Hj. Fatimah",
     "category": "soto",
     "region": "sleman",
@@ -176,6 +198,7 @@
     "notes": "jujugan klo lg sakit jaman f12"
   },
   {
+    "slug": "soto-sapi-bu-pujo-beringharjo",
     "name": "Soto Sapi Bu Pujo Beringharjo",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -184,6 +207,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-pak-sabar",
     "name": "Soto Sapi Pak Sabar",
     "category": "soto",
     "region": "bantul",
@@ -192,6 +216,7 @@
     "notes": "deket runahku hhh"
   },
   {
+    "slug": "soto-pites-mbah-galak",
     "name": "Soto Pites Mbah Galak",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -200,6 +225,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-kang-kasidi",
     "name": "Soto Sapi Kang Kasidi",
     "category": "soto",
     "region": "bantul",
@@ -208,6 +234,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-pak-parno-prawirotaman",
     "name": "Soto Sapi Pak Parno Prawirotaman",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -216,6 +243,7 @@
     "notes": "buset laris bgt"
   },
   {
+    "slug": "soto-pak-tembong",
     "name": "Soto Pak Tembong",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -224,6 +252,7 @@
     "notes": "dulu si jaman aku kecil rame"
   },
   {
+    "slug": "soto-sapi-pak-gimin",
     "name": "Soto Sapi Pak Gimin",
     "category": "soto",
     "region": "bantul",
@@ -232,6 +261,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-bu-pujo",
     "name": "Soto Sapi Bu Pujo",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -240,6 +270,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-pak-gendut",
     "name": "Soto Pak Gendut",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -248,6 +279,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-kwali",
     "name": "Soto Sapi Kwali",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -256,6 +288,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-pak-syamsul-pasar-kolombo",
     "name": "Soto Sapi Pak Syamsul Pasar Kolombo",
     "category": "soto",
     "region": "sleman",
@@ -264,6 +297,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-pak-muh-pasar-beringharjo",
     "name": "Soto Pak Muh Pasar Beringharjo",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -272,6 +306,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-moneter-mbah-galak",
     "name": "Soto Moneter Mbah Galak",
     "category": "soto",
     "region": "bantul",
@@ -280,6 +315,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sumuk",
     "name": "Soto Sumuk",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -288,6 +324,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sapi-pak-pur",
     "name": "Soto Sapi Pak Pur",
     "category": "soto",
     "region": "bantul",
@@ -296,6 +333,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-pak-marto-tamansari",
     "name": "Soto Pak Marto Tamansari",
     "category": "soto",
     "region": "bantul",
@@ -304,6 +342,7 @@
     "notes": "yg deket JIH buka 24jam"
   },
   {
+    "slug": "soto-ayam-bang-jago",
     "name": "Soto Ayam Bang Jago",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -312,6 +351,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-pak-soleh",
     "name": "Soto Pak Soleh",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -320,6 +360,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-sulung-tugu",
     "name": "Soto Sulung Tugu",
     "category": "soto",
     "region": "bantul",
@@ -328,6 +369,7 @@
     "notes": ""
   },
   {
+    "slug": "coto-makassar-es-pisang-ijo-la-capilla",
     "name": "Coto Makassar Es Pisang Ijo La Capilla",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -336,6 +378,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-makassar-daeng-imba",
     "name": "Soto Makassar Daeng Imba",
     "category": "soto",
     "region": "sleman",
@@ -344,6 +387,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-banjar-kotabaru",
     "name": "Soto Banjar Kotabaru",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -352,6 +396,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-mie-bogor-pak-kadir",
     "name": "Soto Mie Bogor Pak Kadir",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -360,6 +405,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-kemasan",
     "name": "Soto Kemasan",
     "category": "soto",
     "region": "bantul",
@@ -368,6 +414,7 @@
     "notes": "soto ada tahunya"
   },
   {
+    "slug": "soto-betawi-h-pitung",
     "name": "Soto Betawi H. Pitung",
     "category": "soto",
     "region": "kota_yogyakarta",
@@ -376,6 +423,7 @@
     "notes": ""
   },
   {
+    "slug": "soto-betawi-jayadi",
     "name": "Soto Betawi Jayadi",
     "category": "soto",
     "region": "sleman",

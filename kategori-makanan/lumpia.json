@@ -1,5 +1,6 @@
 [
   {
+    "slug": "lumpia-sedap-rasa-gardena",
     "name": "Lumpia Sedap Rasa Gardena",
     "category": "lumpia",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "lumpia-samijaya",
     "name": "Lumpia Samijaya",
     "category": "lumpia",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "lumpia-bu-tatik",
     "name": "Lumpia Bu Tatik",
     "category": "lumpia",
     "region": "kota_yogyakarta",

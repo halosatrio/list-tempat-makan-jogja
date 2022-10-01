@@ -1,5 +1,6 @@
 [
   {
+    "slug": "sambal-bawang-bu-santi",
     "name": "Sambal Bawang Bu Santi",
     "category": "sambal",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "sambel-gami-bu-sum",
     "name": "Sambel Gami Bu Sum",
     "category": "sambal",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "sambel-belut-pak-wardi",
     "name": "Sambel Belut Pak Wardi",
     "category": "sambal",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "sambel-mateng-bu-saring",
     "name": "Sambel Mateng Bu Saring",
     "category": "sambal",
     "region": "sleman",

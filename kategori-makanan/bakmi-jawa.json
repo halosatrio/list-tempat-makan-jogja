@@ -1,5 +1,6 @@
 [
   {
+    "slug": "bakmi-jawa-pak-pur",
     "name": "Bakmi Jawa Pak Pur",
     "category": "bakmi_jawa",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": "ada menu Nasi Godog alias Nasi Rebus, Bakmi Rebusnya enak pake telor bebek"
   },
   {
+    "slug": "bakmi-jawa-pasar-pingit",
     "name": "Bakmi Jawa  Pasar Pingit",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": "hidden menu Bakmi Nyemek Kecap Pedes"
   },
   {
+    "slug": "bakmi-jawa-pak-rebo",
     "name": "Bakmi Jawa Pak Rebo",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": "Pak Rebo e pak rebo, pak rebo laire dino kemis"
   },
   {
+    "slug": "bakmi-jawa-doring",
     "name": "Bakmi Jawa Doring",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-pak-pele",
     "name": "Bakmi Jawa Pak Pele",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": "orang2 pd demen bgt ke sini dah"
   },
   {
+    "slug": "bakmi-jawa-giyatno",
     "name": "Bakmi Jawa Giyatno",
     "category": "bakmi_jawa",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": "ada Rica nya juga yg terkenal"
   },
   {
+    "slug": "bakmi-jawa-pak-geno",
     "name": "Bakmi Jawa Pak Geno",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-pak-jono-kotagede",
     "name": "Bakmi Pak Jono Kotagede",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-depan-puskesmas-mantrijeron",
     "name": "Bakmi Jawa depan Puskesmas Mantrijeron",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-petbun",
     "name": "Bakmi Jawa Petbun",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-depan-museum-biologi",
     "name": "Bakmi Jawa depan Museum Biologi",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-mbah-hadi",
     "name": "Bakmi Jawa Mbah Hadi",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-george-warno",
     "name": "Bakmi Jawa George Warno",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -104,6 +117,7 @@
     "notes": "namanya keren bgt ya"
   },
   {
+    "slug": "bakmi-jawa-kadin",
     "name": "Bakmi Jawa Kadin",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -112,6 +126,7 @@
     "notes": "orang tua2 knp pd demen ke sini ya"
   },
   {
+    "slug": "bakmi-jawa-jombor",
     "name": "Bakmi Jawa Jombor",
     "category": "bakmi_jawa",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": "ini juga gatau kenapa"
   },
   {
+    "slug": "bakmi-jawa-pak-tug",
     "name": "Bakmi Jawa Pak Tug",
     "category": "bakmi_jawa",
     "region": "kota_yogyakarta",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-pak-madyo",
     "name": "Bakmi Jawa Pak Madyo",
     "category": "bakmi_jawa",
     "region": "sleman",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-jawa-cinta-rasa-pak-sunar",
     "name": "Bakmi Jawa Cinta Rasa Pak Sunar",
     "category": "bakmi_jawa",
     "region": "bantul",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-bebek-proci",
     "name": "Bakmi Bebek Proci",
     "category": "bakmi_jawa",
     "region": "sleman",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-pak-bendot",
     "name": "Bakmi Pak Bendot",
     "category": "bakmi_jawa",
     "region": "sleman",

@@ -1,5 +1,6 @@
 [
   {
+    "slug": "ayam-goreng-suharti",
     "name": "Ayam Goreng Suharti",
     "category": "ayam",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-tojoyo",
     "name": "Ayam Goreng Tojoyo",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-bacem-bu-tini",
     "name": "Ayam Goreng Bacem Bu Tini",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": "dabest"
   },
   {
+    "slug": "ayam-goreng-bacem-mbok-sabar",
     "name": "Ayam Goreng Bacem Mbok Sabar",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-bacem-pak-kromo",
     "name": "Ayam Goreng Bacem Pak Kromo",
     "category": "ayam",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-rempah-pak-roso",
     "name": "Ayam Goreng Rempah Pak Roso",
     "category": "ayam",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-126-chick",
     "name": "Ayam Goreng 126 Chick",
     "category": "ayam",
     "region": "bantul",
@@ -56,6 +63,7 @@
     "notes": "Suharti versi murmer enak"
   },
   {
+    "slug": "ayam-goreng-hong",
     "name": "Ayam Goreng Hong",
     "category": "ayam",
     "region": "bantul",
@@ -64,6 +72,7 @@
     "notes": "asin ayamnya"
   },
   {
+    "slug": "ayam-pak-joko",
     "name": "Ayam Pak Joko",
     "category": "ayam",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": "deket Sami Asih murah meriah enak"
   },
   {
+    "slug": "ayam-bakar-artomoro",
     "name": "Ayam Bakar Artomoro",
     "category": "ayam",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": "yg pedes wajib coba"
   },
   {
+    "slug": "ayam-bakar-genter",
     "name": "Ayam Bakar Genter",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-tamsis",
     "name": "Ayam Bakar Tamsis",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-qdul-duwur",
     "name": "Ayam Bakar Qdul Duwur",
     "category": "ayam",
     "region": "bantul",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-sunmor-anggajaya",
     "name": "Ayam Bakar Sunmor Anggajaya",
     "category": "ayam",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-kuali-mas-manto",
     "name": "Ayam Bakar Kuali Mas Manto",
     "category": "ayam",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-rm-sukasuka-jakal",
     "name": "Ayam Bakar RM SukaSuka Jakal",
     "category": "ayam",
     "region": "sleman",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-bakar-kuah-lesehan-tasik",
     "name": "Ayam Bakar Kuah Lesehan Tasik",
     "category": "ayam",
     "region": "sleman",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-tulang-lunak-hayam-wuruk",
     "name": "Ayam Tulang Lunak Hayam Wuruk",
     "category": "ayam",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-goreng-sambel-mentah-bu-saring",
     "name": "Ayam Goreng Sambel Mentah Bu Saring",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-kuah-warung-giyok",
     "name": "Ayam Kuah Warung Giyok",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-cha-do-jo",
     "name": "Ayam Cha Do Jo",
     "category": "ayam",
     "region": "sleman",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-taliwang-papin",
     "name": "Ayam Taliwang Papin",
     "category": "ayam",
     "region": "kota_yogyakarta",
@@ -176,6 +198,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-geprek-bu-made-kuah-tongseng",
     "name": "Ayam Geprek Bu Made Kuah Tongseng",
     "category": "ayam",
     "region": "sleman",
@@ -184,6 +207,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-geprek-bu-rum",
     "name": "Ayam Geprek Bu Rum",
     "category": "ayam",
     "region": "sleman",
@@ -192,6 +216,7 @@
     "notes": "The OG, dua tiga Geprek Bu Rum, I still see ur shadow in my room"
   },
   {
+    "slug": "ayam-geprek-pak-wage",
     "name": "Ayam Geprek Pak Wage",
     "category": "ayam",
     "region": "sleman",
@@ -200,6 +225,7 @@
     "notes": ""
   },
   {
+    "slug": "preksu",
     "name": "Preksu",
     "category": "ayam",
     "region": "sleman",
@@ -208,6 +234,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-geprek-rahayu",
     "name": "Ayam Geprek Rahayu",
     "category": "ayam",
     "region": "sleman",
@@ -216,6 +243,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-geprek-bu-nanik",
     "name": "Ayam Geprek Bu Nanik",
     "category": "ayam",
     "region": "sleman",
@@ -224,6 +252,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-penyet-mas-kobis",
     "name": "Ayam Penyet Mas Kobis",
     "category": "ayam",
     "region": "sleman",
@@ -232,6 +261,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-krisbar-susi",
     "name": "Ayam Krisbar Susi",
     "category": "ayam",
     "region": "sleman",
@@ -240,6 +270,7 @@
     "notes": ""
   },
   {
+    "slug": "ayam-gepuk-pak-gembus",
     "name": "Ayam Gepuk Pak Gembus",
     "category": "ayam",
     "region": "sleman",
@@ -248,6 +279,7 @@
     "notes": ""
   },
   {
+    "slug": "olive-chicken",
     "name": "Olive Chicken",
     "category": "ayam",
     "region": "sleman",
@@ -256,6 +288,7 @@
     "notes": "makanan khas mahasiswa Yk"
   },
   {
+    "slug": "popeye",
     "name": "Popeye",
     "category": "ayam",
     "region": "sleman",
@@ -264,6 +297,7 @@
     "notes": "ini dlu gabung sm Olive ga ya"
   },
   {
+    "slug": "rocket-chicken",
     "name": "Rocket Chicken",
     "category": "ayam",
     "region": "sleman",
@@ -272,6 +306,7 @@
     "notes": "mendingan la"
   },
   {
+    "slug": "dirty-chick",
     "name": "DIRTY CHICK",
     "category": "ayam",
     "region": "sleman",

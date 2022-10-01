@@ -1,5 +1,6 @@
 [
   {
+    "slug": "hakata-ramen",
     "name": "Hakata Ramen",
     "category": "ramen",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "golden-geisha-ramen",
     "name": "Golden Geisha Ramen",
     "category": "ramen",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": "kayanya paling ok di yk"
   },
   {
+    "slug": "hakosuka-ramen",
     "name": "Hakosuka Ramen",
     "category": "ramen",
     "region": "kota_yogyakarta",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "ramen-songo",
     "name": "Ramen Songo",
     "category": "ramen",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "ramen-ya-amplaz",
     "name": "Ramen Ya Amplaz",
     "category": "ramen",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "ramen-shojin",
     "name": "Ramen Shojin",
     "category": "ramen",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "ramen-gokana",
     "name": "Ramen Gokana",
     "category": "ramen",
     "region": "sleman",

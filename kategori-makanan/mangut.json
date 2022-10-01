@@ -1,5 +1,6 @@
 [
   {
+    "slug": "mangut-lele-mbah-temu",
     "name": "Mangut Lele Mbah Temu",
     "category": "mangut",
     "region": "bantul",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "mangut-lele-bu-is",
     "name": "Mangut Lele Bu Is",
     "category": "mangut",
     "region": "bantul",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "mangut-lele-mbah-marto",
     "name": "Mangut Lele Mbah Marto",
     "category": "mangut",
     "region": "bantul",

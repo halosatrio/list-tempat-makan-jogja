@@ -1,5 +1,6 @@
 [
   {
+    "slug": "warung-52",
     "name": "Warung 52",
     "category": "nonhalal",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "bu-kadek-khas-bali",
     "name": "Bu Kadek Khas Bali",
     "category": "nonhalal",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "warung-bu-komang",
     "name": "Warung Bu Komang ☆",
     "category": "nonhalal",
     "region": "bantul",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "bima-kroda",
     "name": "Bima Kroda ☆",
     "category": "nonhalal",
     "region": "bantul",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "nasgor-babi-papilon",
     "name": "Nasgor Babi Papilon ☆",
     "category": "nonhalal",
     "region": "kota_yogyakarta",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "bakmi-ketandan,-nasgor-ketandan-bhayangkara",
     "name": "Bakmi Ketandan, Nasgor Ketandan Bhayangkara ☆",
     "category": "nonhalal",
     "region": "kota_yogyakarta",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "lima-serangkai",
     "name": "Lima Serangkai ☆",
     "category": "nonhalal",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "babi-racing-koh-jw",
     "name": "Babi Racing Koh JW ☆",
     "category": "nonhalal",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "pothz-burger",
     "name": "Pothz Burger",
     "category": "nonhalal",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "rm-88-panpan",
     "name": "RM 88 Panpan",
     "category": "nonhalal",
     "region": "sleman",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "warung-buto",
     "name": "Warung Buto",
     "category": "nonhalal",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "sate-babi-ketandan",
     "name": "Sate Babi Ketandan",
     "category": "nonhalal",
     "region": "kota_yogyakarta",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "east-pork-sei-babi",
     "name": "East Pork Sei Babi",
     "category": "nonhalal",
     "region": "kota_yogyakarta",
@@ -105,6 +118,7 @@
   },
 
   {
+    "slug": "piggylicious",
     "name": "Piggylicious",
     "category": "nonhalal",
     "region": "kota_yogyakarta",

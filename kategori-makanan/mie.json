@@ -1,5 +1,6 @@
 [
   {
+    "slug": "mie-bandung-59-daerah-beskalan-malioboro",
     "name": "Mie Bandung 59 daerah Beskalan Malioboro",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": "pedas manis recommended, mending langsung di yg pusatnya, yg jual jg ramah bgt"
   },
   {
+    "slug": "yammie-singkawang",
     "name": "Yammie Singkawang",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": "banyak menu yg tastenya ada hint asem, yg punya baik aku sering dikasi kue atau klo dia lg masak apa jg ditawarin HAHA"
   },
   {
+    "slug": "mie-keriting-medan-jl-magelang",
     "name": "Mie Keriting Medan jl Magelang",
     "category": "mie",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "yammie-pathuk",
     "name": "Yammie Pathuk",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-sapi-banteng",
     "name": "Mie Sapi Banteng",
     "category": "mie",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": "sekarang antrinya dua jam"
   },
   {
+    "slug": "mie-grabyas-red-door",
     "name": "Mie Grabyas Red Door",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "yamie-kranggan",
     "name": "Yamie Kranggan",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -56,6 +63,7 @@
     "notes": "yg goreng/pedas manis"
   },
   {
+    "slug": "yammie-panda",
     "name": "Yammie Panda",
     "category": "mie",
     "region": "sleman",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-sambal-matah-hotel-daerah-tamsis",
     "name": "Mie Sambal Matah Hotel daerah Tamsis",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "yamie-matahari-maliobioro",
     "name": "Yamie Matahari Maliobioro",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-bangka-pak-harun",
     "name": "Mie Bangka Pak Harun",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-bangka-apo",
     "name": "Mie Bangka Apo",
     "category": "mie",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-palembang-afui",
     "name": "Mie Palembang Afui",
     "category": "mie",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-ungaran-kotabaru",
     "name": "Mie Ayam Ungaran Kotabaru",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-pak-slamet-uny",
     "name": "Mie Ayam Pak Slamet UNY",
     "category": "mie",
     "region": "sleman",
@@ -120,6 +135,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-tumini",
     "name": "Mie Ayam Tumini",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-pak-tris",
     "name": "Mie Ayam Pak Tris",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-pak-waldi",
     "name": "Mie Ayam Pak Waldi",
     "category": "mie",
     "region": "sleman",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-kamehame",
     "name": "Mie Ayam Kamehame",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-sarmintul",
     "name": "Mie Ayam Sarmintul",
     "category": "mie",
     "region": "bantul",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-bakso-sempurna",
     "name": "Mie Ayam Bakso Sempurna",
     "category": "mie",
     "region": "sleman",
@@ -168,6 +189,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-ayam-goreng-mekaton",
     "name": "Mie Ayam Goreng Mekaton",
     "category": "mie",
     "region": "sleman",
@@ -176,6 +198,7 @@
     "notes": "wah asli ini enak sih, jauh levelnya drpd mie ayam goreng fisipol"
   },
   {
+    "slug": "mie-ayam-sumatra72",
     "name": "Mie Ayam Sumatra72",
     "category": "mie",
     "region": "sleman",
@@ -184,6 +207,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-gacoan",
     "name": "Mie Gacoan",
     "category": "mie",
     "region": "sleman",
@@ -192,6 +216,7 @@
     "notes": "HAHA"
   },
   {
+    "slug": "mie-ikan-tagar",
     "name": "Mie Ikan Tagar",
     "category": "mie",
     "region": "sleman",
@@ -200,6 +225,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-aceh-chierasa-sagan",
     "name": "Mie Aceh Chierasa Sagan",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -208,6 +234,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-aceh-bang-la-kupi",
     "name": "Mie Aceh Bang La Kupi",
     "category": "mie",
     "region": "sleman",
@@ -216,6 +243,7 @@
     "notes": ""
   },
   {
+    "slug": "kwetiaw-ko-wan-gejayan",
     "name": "Kwetiaw Ko Wan Gejayan",
     "category": "mie",
     "region": "sleman",
@@ -224,6 +252,7 @@
     "notes": "nasgornya boleh dicoba"
   },
   {
+    "slug": "bakmi-thoyonk",
     "name": "Bakmi Thoyonk",
     "category": "mie",
     "region": "kota_yogyakarta",
@@ -232,6 +261,7 @@
     "notes": ""
   },
   {
+    "slug": "mie-katsu-gale",
     "name": "Mie Katsu gale",
     "category": "mie",
     "region": "kota_yogyakarta",

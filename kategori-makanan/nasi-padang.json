@@ -1,5 +1,6 @@
 [
   {
+    "slug": "padang-sederhana",
     "name": "Padang Sederhana",
     "category": "nasi_padang",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": "sampe skg blm nemu padang di jogja yg wow enak bgt nih gila"
   },
   {
+    "slug": "padang-duta-minang",
     "name": "Padang Duta Minang",
     "category": "nasi_padang",
     "region": "kota_yogyakarta",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "padang-palanta",
     "name": "Padang Palanta",
     "category": "nasi_padang",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "padang-lima-sekawan",
     "name": "Padang Lima Sekawan",
     "category": "nasi_padang",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "padang-sabana",
     "name": "Padang Sabana",
     "category": "nasi_padang",
     "region": "sleman",

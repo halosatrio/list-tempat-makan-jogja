@@ -1,5 +1,6 @@
 [
   {
+    "slug": "nasi-bebek-mbak-desy",
     "name": "Nasi Bebek Mbak Desy",
     "category": "bebek",
     "region": "sleman",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-sego-saduk-seturan",
     "name": "Bebek Sego Saduk Seturan",
     "category": "bebek",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": "bumbu itemnya gurih enak sambelnya pedes 👌"
   },
   {
+    "slug": "bebek-madura-anugrah",
     "name": "Bebek Madura Anugrah",
     "category": "bebek",
     "region": "bantul",
@@ -24,6 +27,7 @@
     "notes": "jauh tapi Sewon wk"
   },
   {
+    "slug": "bebek-empuk-bu-sasongko",
     "name": "Bebek Empuk Bu Sasongko",
     "category": "bebek",
     "region": "sleman",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-goreng-pak-widodo",
     "name": "Bebek Goreng Pak Widodo",
     "category": "bebek",
     "region": "bantul",
@@ -40,6 +45,7 @@
     "notes": "👌"
   },
   {
+    "slug": "bebek-goreng-kang-dono",
     "name": "Bebek Goreng Kang Dono",
     "category": "bebek",
     "region": "bantul",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "bale-bebek-jogja",
     "name": "Bale Bebek Jogja",
     "category": "bebek",
     "region": "kota_yogyakarta",
@@ -56,6 +63,7 @@
     "notes": "ini bebek dimasak apa aja ada kayanya"
   },
   {
+    "slug": "bebek-buma",
     "name": "Bebek Buma",
     "category": "bebek",
     "region": "kota_yogyakarta",
@@ -64,6 +72,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-bema",
     "name": "Bebek Bema",
     "category": "bebek",
     "region": "sleman",
@@ -72,6 +81,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-cak-koting",
     "name": "Bebek Cak Koting",
     "category": "bebek",
     "region": "kota_yogyakarta",
@@ -80,6 +90,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-goreng-chichi",
     "name": "Bebek Goreng Chichi",
     "category": "bebek",
     "region": "kota_yogyakarta",
@@ -88,6 +99,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-goreng-h-slamet",
     "name": "Bebek Goreng H. Slamet",
     "category": "bebek",
     "region": "sleman",
@@ -96,6 +108,7 @@
     "notes": "hhhh, btw ini dibeli Waroeng Group wow wow wow bangkrut apa ribut ya"
   },
   {
+    "slug": "bebek-goreng-simpatik",
     "name": "Bebek Goreng Simpatik",
     "category": "bebek",
     "region": "sleman",
@@ -104,6 +117,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-goreng-purnama",
     "name": "Bebek Goreng Purnama",
     "category": "bebek",
     "region": "sleman",
@@ -112,6 +126,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-goreng-pak-koes-gunungkidul",
     "name": "Bebek Goreng Pak Koes Gunungkidul",
     "category": "bebek",
     "region": "gunungkidul",
@@ -120,6 +135,7 @@
     "notes": "klo bingung barusan dari pantai mau makan apa"
   },
   {
+    "slug": "bebek-goreng-djogja",
     "name": "Bebek Goreng Djogja",
     "category": "bebek",
     "region": "sleman",
@@ -128,6 +144,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-suwarni",
     "name": "Bebek Suwarni",
     "category": "bebek",
     "region": "sleman",
@@ -136,6 +153,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-madura-sanjaya-sambel-plecit",
     "name": "Bebek Madura Sanjaya Sambel Plecit",
     "category": "bebek",
     "region": "bantul",
@@ -144,6 +162,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-sinjuy",
     "name": "Bebek Sinjuy",
     "category": "bebek",
     "region": "bantul",
@@ -152,6 +171,7 @@
     "notes": ""
   },
   {
+    "slug": "bebek-hidayah",
     "name": "Bebek Hidayah",
     "category": "bebek",
     "region": "bantul",
@@ -160,6 +180,7 @@
     "notes": ""
   },
   {
+    "slug": "entok-slenget-kang-tanir",
     "name": "Entok Slenget Kang Tanir",
     "category": "bebek",
     "region": "sleman",

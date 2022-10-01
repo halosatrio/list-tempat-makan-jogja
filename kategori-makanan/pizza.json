@@ -1,5 +1,6 @@
 [
   {
+    "slug": "nanamia-pizzeria-tirtodipuran",
     "name": "Nanamia Pizzeria Tirtodipuran",
     "category": "pizza",
     "region": "kota_yogyakarta",
@@ -8,6 +9,7 @@
     "notes": ""
   },
   {
+    "slug": "nanamia-pizzeria-moses",
     "name": "Nanamia Pizzeria Moses",
     "category": "pizza",
     "region": "sleman",
@@ -16,6 +18,7 @@
     "notes": ""
   },
   {
+    "slug": "pizza-times",
     "name": "Sekar Pizza Jakal",
     "category": "pizza",
     "region": "sleman",
@@ -24,6 +27,7 @@
     "notes": ""
   },
   {
+    "slug": "thyme-pizza",
     "name": "Sekar Pizza Tirtodipuran",
     "category": "pizza",
     "region": "kota_yogyakarta",
@@ -32,6 +36,7 @@
     "notes": ""
   },
   {
+    "slug": "aroma-italia",
     "name": "Pizza Times",
     "category": "pizza",
     "region": "sleman",
@@ -40,6 +45,7 @@
     "notes": ""
   },
   {
+    "slug": "sekar-pizza-tirtodipuran",
     "name": "Thyme Pizza",
     "category": "pizza",
     "region": "sleman",
@@ -48,6 +54,7 @@
     "notes": ""
   },
   {
+    "slug": "francis-pizza",
     "name": "Aroma Italia",
     "category": "pizza",
     "region": "sleman",
@@ -56,6 +63,7 @@
     "notes": ""
   },
   {
+    "slug": "sekar-pizza-jakal",
     "name": "Francis Pizza",
     "category": "pizza",
     "region": "sleman",
